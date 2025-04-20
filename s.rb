@@ -1,12 +1,55 @@
 require 'sinatra'
 require 'json'
 require 'sinatra/cross_origin'
+require 'open-uri'
+require 'fileutils'
+
+REPO_URL = "https://github.com/egirlst/api"
+REPO_RAW_URL = "https://raw.githubusercontent.com/egirlst/api/main"
+CHECK_INTERVAL = 300  # Check for updates every 5 minutes
 
 set :port, 7000
 set :bind, '0.0.0.0'
 set :environment, :production
 set :server, %w[thin mongrel webrick]
 set :protection, except: [:json_csrf]
+
+def initialize_git_repo
+  unless File.directory?('.git')
+    system('git init')
+    system("git remote add origin #{REPO_URL}.git")
+  end
+end
+
+def check_for_updates
+  puts "Checking for updates from GitHub..."
+  system('git fetch origin')
+  local_head = `git rev-parse HEAD`.strip
+  remote_head = `git rev-parse origin/main`.strip
+  
+  if local_head != remote_head
+    puts "Updates found, pulling changes..."
+    system('git pull origin main')
+    puts "Repository updated to #{remote_head}"
+    return true
+  else
+    puts "No updates found."
+    return false
+  end
+end
+
+def start_update_thread
+  Thread.new do
+    loop do
+      begin
+        check_for_updates
+      rescue => e
+        puts "Error checking for updates: #{e.message}"
+      end
+      sleep CHECK_INTERVAL
+    end
+  end
+end
 
 configure do
   enable :cross_origin
@@ -16,6 +59,9 @@ configure do
   set :allow_credentials, true
   set :max_age, "1728000"
   set :expose_headers, ['Content-Type']
+  
+  initialize_git_repo
+  start_update_thread
 end
 
 before do
@@ -24,23 +70,23 @@ before do
 end
 
 def load_commands
-  commands = {}
+  all_commands = []
   
   Dir.glob('cmds/*').select { |f| File.directory?(f) }.each do |category_dir|
     category_name = File.basename(category_dir)
-    commands[category_name] = []
     
     Dir.glob("#{category_dir}/*.json").each do |cmd_file|
       begin
         cmd_data = JSON.parse(File.read(cmd_file))
-        commands[category_name] << cmd_data
+        cmd_data["category"] = category_name  # Add category to each command
+        all_commands << cmd_data
       rescue => e
         puts "Error loading #{cmd_file}: #{e.message}"
       end
     end
   end
   
-  commands
+  all_commands
 end
 
 get '/cmds' do
@@ -52,8 +98,10 @@ get '/cmds/:category' do
   category = params[:category]
   commands = load_commands
   
-  if commands.key?(category)
-    commands[category].to_json
+  filtered_commands = commands.select { |cmd| cmd["category"] == category }
+  
+  if filtered_commands.any?
+    filtered_commands.to_json
   else
     status 404
     { error: "Category '#{category}' not found" }.to_json
@@ -65,23 +113,30 @@ get '/cmds/:category/:command' do
   command_name = params[:command]
   commands = load_commands
   
-  if commands.key?(category)
-    command = commands[category].find { |cmd| cmd["name"] == command_name }
-    if command
-      command.to_json
-    else
-      status 404
-      { error: "Command '#{command_name}' not found in category '#{category}'" }.to_json
-    end
+  command = commands.find { |cmd| cmd["category"] == category && cmd["name"] == command_name }
+  
+  if command
+    command.to_json
   else
     status 404
-    { error: "Category '#{category}' not found" }.to_json
+    { error: "Command '#{command_name}' not found in category '#{category}'" }.to_json
   end
 end
 
 get '/cmds/' do
   commands = load_commands
   commands.to_json
+end
+
+get '/update' do
+  content_type :json
+  result = check_for_updates
+  
+  if result
+    { success: true, message: "Repository updated successfully" }.to_json
+  else
+    { success: false, message: "No updates available" }.to_json
+  end
 end
 
 get '/' do
@@ -102,12 +157,13 @@ get '/' do
         <p>This API serves command data from JSON files.</p>
         <h2>Available Endpoints:</h2>
         <ul>
-          <li><code>/cmds</code> - List all commands from all categories</li>
-          <li><code>/cmds/{category}</code> - List all commands in a specific category</li>
+          <li><code>/cmds</code> - List all commands in a single array</li>
+          <li><code>/cmds/{category}</code> - List commands from a specific category</li>
           <li><code>/cmds/{category}/{command}</code> - Get details for a specific command</li>
+          <li><code>/update</code> - Force a check for GitHub updates</li>
         </ul>
         <h2>Example Command Structure:</h2>
-        <pre>#{JSON.pretty_generate(JSON.parse('{"name":"convert","aliases":[],"help":"Convert image to different format","syntax":"convert [format] (url)","example":"convert png","cooldown":false,"permissions":false,"donor":true,"donor_tier":1,"parameters":["format","url"]}'))}</pre>
+        <pre>#{JSON.pretty_generate(JSON.parse('{"name":"convert","category":"donor","aliases":[],"help":"Convert image to different format","syntax":"convert [format] (url)","example":"convert png","cooldown":false,"permissions":false,"donor":true,"donor_tier":1,"parameters":["format","url"]}'))}</pre>
       </body>
     </html>
   HTML
@@ -121,3 +177,4 @@ options "*" do
 end
 
 puts "Server is running at http://localhost:7000"
+puts "Auto-update is enabled and will check GitHub every #{CHECK_INTERVAL} seconds"
