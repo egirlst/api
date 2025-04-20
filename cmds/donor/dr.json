@@ -1,0 +1,12 @@
+{
+    "name": "dr",
+    "aliases": ["donoreact"],
+    "help": "Manage your auto reactions",
+    "syntax": "dr [action] (emoji)",
+    "example": "dr add 🌹",
+    "cooldown": false,
+    "permissions": false,
+    "donor": true,
+    "donor_tier": 1,
+    "parameters": ["add", "list", "clear", "remove", "enable", "disable"]
+  }
