@@ -4,9 +4,18 @@ require 'sinatra/cross_origin'
 
 set :port, 7000
 set :bind, '0.0.0.0'
+set :environment, :production
+set :server, %w[thin mongrel webrick]
+set :protection, except: [:json_csrf]
 
 configure do
   enable :cross_origin
+  enable :static
+  set :allow_origin, "*"
+  set :allow_methods, [:get, :post, :options]
+  set :allow_credentials, true
+  set :max_age, "1728000"
+  set :expose_headers, ['Content-Type']
 end
 
 before do
