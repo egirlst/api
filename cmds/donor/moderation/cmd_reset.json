@@ -1,0 +1,13 @@
+{
+    "name": "reset",
+    "group": "cmd",
+    "aliases": ["clear", "clean"],
+    "help": "enable all disabled commands",
+    "syntax": "cmd reset",
+    "example": "cmd reset",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }
+  

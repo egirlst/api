@@ -1,0 +1,16 @@
+{
+    "name": "timeout",
+    "aliases": ["to"],
+    "help": "timeout a user",
+    "syntax": "timeout [user] (duration) (reason)",
+    "example": "timeout @vole 10m being dumb",
+    "cooldown": "5",
+    "permissions": "moderate_members",
+    "donor": false,
+    "parameters": [
+      "user",
+      "duration",
+      "reason"
+    ]
+  }
+  

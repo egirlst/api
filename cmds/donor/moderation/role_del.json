@@ -1,0 +1,14 @@
+{
+    "name": "del",
+    "group": "role",
+    "aliases": ["delete"],
+    "help": "delete a role",
+    "syntax": "role del [role name]",
+    "example": "role del uglies",
+    "cooldown": "5",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": [
+      "role"
+    ]
+  }

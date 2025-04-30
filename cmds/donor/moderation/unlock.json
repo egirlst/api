@@ -1,0 +1,16 @@
+{
+    "name": "unlock",
+    "aliases": [],
+    "help": "unlock channels from everyone",
+    "syntax": "unlock (channel/catogory) (all) (excluded channels/catogorys...)",
+    "example": "unlock #txt",
+    "cooldown": "5",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": [
+        "channel",
+      "all",
+      "excluded",
+      "catogorys"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "clear",
+    "group": "roleonjoin",
+    "aliases": [],
+    "help": "clears all roles when a user joins the server",
+    "syntax": "rj clear ",
+    "example": "rj clear",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }

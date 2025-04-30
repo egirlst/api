@@ -1,0 +1,15 @@
+{
+    "name": "remove",
+    "group": "role",
+    "aliases": ["rm"],
+    "help": "remove a role from a user",
+    "syntax": "role remove [user] [role1] (role2) (role3)",
+    "example": "role remove @vole cutie",
+    "cooldown": "5",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": [
+      "user",
+      "role"
+    ]
+  }

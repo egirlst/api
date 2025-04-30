@@ -1,0 +1,14 @@
+{
+    "name": "humans",
+    "group": "role",
+    "aliases": [],
+    "help": "add role to all humans",
+    "syntax": "role humans [role]",
+    "example": "role humans egirls",
+    "cooldown": "60",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": [
+      "role"
+    ]
+  }

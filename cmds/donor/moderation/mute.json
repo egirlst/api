@@ -1,0 +1,14 @@
+{
+    "name": "mute",
+    "aliases": [],
+    "help": "mute a user",
+    "syntax": "mute [user] (all)",
+    "example": "mute @vole",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": [
+      "user",
+      "all"
+    ]
+  }

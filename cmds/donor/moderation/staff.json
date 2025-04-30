@@ -1,0 +1,15 @@
+{
+    "name": "staff",
+    "group": "staff",
+    "aliases": [],
+    "help": "manage staff roles",
+    "syntax": "staff [user]",
+    "example": "staff @vole",
+    "cooldown": "1",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": [
+      "user"
+    ]
+  }
+  

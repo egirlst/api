@@ -1,0 +1,15 @@
+{
+    "name": "name",
+    "group": "channel",
+    "aliases": [],
+    "help": "rename a channel",
+    "syntax": "channel name (channel) [name]",
+    "example": "channel name #txt chat",
+    "cooldown": "5",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": [
+      "channel",
+      "name"
+    ]
+  }

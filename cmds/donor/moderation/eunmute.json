@@ -1,0 +1,15 @@
+{
+    "name": "eunmute",
+    "aliases": [],
+    "help": "restore external emoji/sticker permissions",
+    "syntax": "eunmute [user] (all)",
+    "example": "eunmute @vole",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": [
+      "user",
+      "all"
+    ]
+  }
+  

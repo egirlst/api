@@ -1,0 +1,15 @@
+{
+    "name": "restore",
+    "group": "staff",
+    "aliases": [],
+    "help": "restore stripped staff permissions",
+    "syntax": "staff restore [user]",
+    "example": "staff restore @vole",
+    "cooldown": "1",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": [
+      "user"
+    ]
+  }
+  

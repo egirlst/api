@@ -1,0 +1,15 @@
+{
+    "name": "color",
+    "group": "role",
+    "aliases": ["colour"],
+    "help": "set role color",
+    "syntax": "role color [role name] [color]",
+    "example": "role color king bubblegum pink",
+    "cooldown": "5",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": [
+      "role",
+      "color"
+    ]
+  }

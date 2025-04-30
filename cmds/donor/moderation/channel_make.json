@@ -1,0 +1,15 @@
+{
+    "name": "make",
+    "group": "channel",
+    "aliases": ["create"],
+    "help": "create a channel",
+    "syntax": "channel make [name] (catogory)",
+    "example": "channel make txt",
+    "cooldown": "5",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": [
+      "name",
+      "category"
+    ]
+  }

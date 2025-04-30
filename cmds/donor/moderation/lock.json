@@ -1,0 +1,16 @@
+{
+    "name": "lock",
+    "aliases": [],
+    "help": "lock channels from everyone",
+    "syntax": "lock (channel/catogory) (all) (excluded channels/catogorys...)",
+    "example": "lock #txt",
+    "cooldown": "5",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": [
+        "channel",
+      "all",
+      "excluded",
+      "catogorys"
+    ]
+}

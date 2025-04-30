@@ -1,0 +1,15 @@
+{
+    "name": "forcenick",
+    "aliases": ["fn"],
+    "help": "force a nickname on a user",
+    "syntax": "fn [user] (duration) (reason)",
+    "example": "fn @vole cute egirl",
+    "cooldown": "5",
+    "permissions": "manage_nicknames",
+    "donor": false,
+    "parameters": [
+      "user",
+      "nickname"
+    ]
+  }
+  

@@ -1,0 +1,15 @@
+{
+    "name": "iunmute",
+    "aliases": [],
+    "help": "restore attachment permissions",
+    "syntax": "iunmute [user] (all)",
+    "example": "iunmute @vole",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": [
+      "user",
+      "all"
+    ]
+  }
+  

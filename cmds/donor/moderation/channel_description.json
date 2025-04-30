@@ -1,0 +1,15 @@
+{
+    "name": "description",
+    "group": "channel",
+    "aliases": ["desc", "topic"],
+    "help": "set channel description",
+    "syntax": "channel description (channel) [description]",
+    "example": "channel desc #txt main chat⭐",
+    "cooldown": "5",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": [
+      "channel",
+      "description"
+    ]
+  }

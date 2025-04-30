@@ -1,0 +1,14 @@
+{
+    "name": "protection",
+    "group": "role",
+    "aliases": ["protect"],
+    "help": "enable or disable role protection",
+    "syntax": "role protection [enable/disable]",
+    "example": "role protection enable",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": [
+      "option"
+    ]
+  }

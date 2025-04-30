@@ -1,0 +1,14 @@
+{
+    "name": "emute",
+    "aliases": [],
+    "help": "remove external emoji/sticker permissions",
+    "syntax": "emute [user] (all)",
+    "example": "emute @vole",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": [
+      "user",
+      "all"
+    ]
+  }

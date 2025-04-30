@@ -1,0 +1,14 @@
+{
+    "name": "purge",
+    "aliases": ["c"],
+    "help": "delete messages in bulk",
+    "syntax": "purge [number/user] (amount)",
+    "example": "purge 10",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": [
+      "user_or_amount",
+      "amount"
+    ]
+  }

@@ -1,0 +1,15 @@
+{
+    "name": "runmute",
+    "aliases": [],
+    "help": "restore reaction permissions",
+    "syntax": "runmute [user] (all)",
+    "example": "runmute @vole",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": [
+      "user",
+      "all"
+    ]
+  }
+  

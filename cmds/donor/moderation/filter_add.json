@@ -1,0 +1,14 @@
+{
+    "name": "add",
+    "group": "filter",
+    "aliases": ["create"],
+    "help": "add a filter word",
+    "syntax": "channel add [word]",
+    "example": "filter add bitch",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": [
+      "word"
+    ]
+  }

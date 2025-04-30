@@ -1,0 +1,15 @@
+{
+    "name": "untimeout",
+    "aliases": ["uto"],
+    "help": "remove timeout from a user",
+    "syntax": "untimeout [user] (reason)",
+    "example": "untimeout @vole",
+    "cooldown": "5",
+    "permissions": "moderate_members",
+    "donor": false,
+    "parameters": [
+      "user",
+      "reason"
+    ]
+  }
+  

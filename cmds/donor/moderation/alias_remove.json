@@ -1,0 +1,13 @@
+{
+    "name": "remove",
+    "group": "alias",
+    "aliases": [],
+    "help": "remove an alias",
+    "syntax": "alias remove [alias]",
+    "example": "alias remove b",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": ["alias"]
+  }
+  

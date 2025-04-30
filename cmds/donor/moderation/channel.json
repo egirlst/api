@@ -1,0 +1,12 @@
+{
+    "name": "channel",
+    "aliases": ["ch"],
+    "help": "get help message",
+    "syntax": "channel",
+    "example": "ch",
+    "cooldown": "5",
+    "permissions": "",
+    "donor": false,
+    "parameters": []
+  }
+  

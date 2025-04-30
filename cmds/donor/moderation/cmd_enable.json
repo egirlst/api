@@ -1,0 +1,13 @@
+{
+    "name": "enable",
+    "group": "cmd",
+    "aliases": ["remove"],
+    "help": "enable a disabled command",
+    "syntax": "cmd enable [command]",
+    "example": "cmd enable ban",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": ["command"]
+  }
+  

@@ -1,0 +1,15 @@
+{
+    "name": "ban",
+    "aliases": [],
+    "help": "ban a user from the server",
+    "syntax": "ban [user] (reason)",
+    "example": "ban @vole dumbass",
+    "cooldown": "5",
+    "permissions": "ban_members",
+    "donor": false,
+    "parameters": [
+      "user",
+      "all"
+    ]
+  }
+  

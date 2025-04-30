@@ -1,0 +1,14 @@
+{
+    "name": "upto",
+    "group": "purge",
+    "aliases": [],
+    "help": "delete messages up to a specific message ID or link",
+    "syntax": "purge upto [message_id/link]",
+    "example": "purge upto 1234567890123456",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": [
+      "message_reference"
+    ]
+  }

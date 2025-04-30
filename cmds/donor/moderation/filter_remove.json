@@ -1,0 +1,14 @@
+{
+    "name": "remove",
+    "group": "filter",
+    "aliases": ["del"],
+    "help": "remove a filter word",
+    "syntax": "channel remove [word]",
+    "example": "filter remove bitch",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": [
+      "word"
+    ]
+  }

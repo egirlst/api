@@ -1,0 +1,16 @@
+{
+    "name": "deny",
+    "group": "channel",
+    "aliases": [],
+    "help": "deny a user/role to access a channel",
+    "syntax": "channel deny (all/channel) [user/role] [hide/read/speak/mute] (excluded)",
+    "example": "channel deny @vole speak",
+    "cooldown": "5",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": [
+      "target",
+      "permission",
+      "channel"
+    ]
+  }

@@ -1,0 +1,15 @@
+{
+    "name": "strip",
+    "group": "saint",
+    "aliases": [],
+    "help": "strip dangerous staff permissions",
+    "syntax": "strip [user]",
+    "example": "strip @vole",
+    "cooldown": "1",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": [
+      "user"
+    ]
+  }
+  

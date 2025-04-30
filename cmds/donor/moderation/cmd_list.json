@@ -1,0 +1,13 @@
+{
+    "name": "list",
+    "group": "cmd",
+    "aliases": [],
+    "help": "list all disabled commands",
+    "syntax": "cmd list",
+    "example": "cmd list",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }
+  

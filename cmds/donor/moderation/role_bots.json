@@ -1,0 +1,14 @@
+{
+    "name": "bots",
+    "group": "role",
+    "aliases": [],
+    "help": "add role to all bots",
+    "syntax": "role bots [role]",
+    "example": "role bots npcs",
+    "cooldown": "30",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": [
+      "role"
+    ]
+  }

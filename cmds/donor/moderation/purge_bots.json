@@ -1,0 +1,14 @@
+{
+    "name": "bots",
+    "group": "purge",
+    "aliases": ["bot"],
+    "help": "delete bot and webhook messages",
+    "syntax": "purge bots [amount]",
+    "example": "purge bots 15",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": [
+      "amount"
+    ]
+  }

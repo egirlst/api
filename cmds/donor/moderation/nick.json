@@ -1,0 +1,15 @@
+{
+    "name": "nick",
+    "aliases": ["nickname"],
+    "help": "nickname a user",
+    "syntax": "timenickout [user] (duration) (reason)",
+    "example": "nick @vole silly baka",
+    "cooldown": "5",
+    "permissions": "manage_nicknames",
+    "donor": false,
+    "parameters": [
+      "user",
+      "nickname"
+    ]
+  }
+  

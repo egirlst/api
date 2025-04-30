@@ -1,0 +1,15 @@
+{
+    "name": "add",
+    "group": "role",
+    "aliases": [],
+    "help": "add a role to a user",
+    "syntax": "role add [user] [role1] (role2) (role3)",
+    "example": "role add @vole king",
+    "cooldown": "5",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": [
+      "user",
+      "role"
+        ]
+  }

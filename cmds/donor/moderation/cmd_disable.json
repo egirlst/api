@@ -1,0 +1,13 @@
+{
+    "name": "disable",
+    "group": "cmd",
+    "aliases": [],
+    "help": "disable a command in this server",
+    "syntax": "cmd disable [command]",
+    "example": "cmd disable ban",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": ["command"]
+  }
+  

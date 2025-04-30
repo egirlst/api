@@ -1,0 +1,13 @@
+{
+    "name": "disable",
+    "group": "jail",
+    "aliases": [],
+    "help": "disable jail",
+    "syntax": "jail disable",
+    "example": "jail disable",
+    "cooldown": "20",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": []
+  }
+  

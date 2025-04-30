@@ -1,0 +1,15 @@
+{
+    "name": "kick",
+    "aliases": [],
+    "help": "kick a user from the server",
+    "syntax": "kick [user] (reason)",
+    "example": "kick @vole dumbass",
+    "cooldown": "5",
+    "permissions": "kick_members",
+    "donor": false,
+    "parameters": [
+      "user",
+      "all"
+    ]
+  }
+  

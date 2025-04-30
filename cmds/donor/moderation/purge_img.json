@@ -1,0 +1,14 @@
+{
+    "name": "img",
+    "group": "purge",
+    "aliases": ["image"],
+    "help": "delete messages with images",
+    "syntax": "purge img [amount]",
+    "example": "purge img 50",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": [
+      "amount"
+    ]
+  }

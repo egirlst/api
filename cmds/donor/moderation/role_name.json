@@ -1,0 +1,15 @@
+{
+    "name": "name",
+    "group": "role",
+    "aliases": ["rename"],
+    "help": "rename a role",
+    "syntax": "role name [role name] [new name]",
+    "example": "role name cool egirls",
+    "cooldown": "5",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": [
+      "role",
+      "name"
+    ]
+  }

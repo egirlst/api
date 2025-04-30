@@ -1,0 +1,15 @@
+{
+    "name": "slowmo",
+    "group": "channel",
+    "aliases": ["slowmode", "slow", "slo"],
+    "help": "Set slowmode for a channel",
+    "syntax": "channel slowmo (time) [duration] (all) (excluded)",
+    "example": "channel slowmo 10 ",
+    "cooldown": "5",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": [
+      "time",
+      "channel"
+    ]
+  }

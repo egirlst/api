@@ -1,0 +1,14 @@
+{
+    "name": "emoji",
+    "group": "purge",
+    "aliases": ["emojis", "sticker", "stickers"],
+    "help": "delete messages with emojis or stickers",
+    "syntax": "purge emoji [amount]",
+    "example": "purge emoji 25",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": [
+      "amount"
+    ]
+  }

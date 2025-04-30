@@ -1,0 +1,15 @@
+{
+    "name": "rmute",
+    "aliases": [],
+    "help": "remove reaction permissions",
+    "syntax": "rmute [user] (all)",
+    "example": "rmute @vole",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": [
+      "user",
+      "all"
+    ]
+  }
+  

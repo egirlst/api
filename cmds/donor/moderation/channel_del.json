@@ -1,0 +1,14 @@
+{
+    "name": "del",
+    "group": "channel",
+    "aliases": ["delete"],
+    "help": "delete a channel",
+    "syntax": "channel del (channel)",
+    "example": "channel del #txt",
+    "cooldown": "10",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": [
+      "channel"
+    ]
+  }

@@ -1,0 +1,15 @@
+{
+    "name": "jail",
+    "aliases": [],
+    "help": "jail management",
+    "syntax": "jail [user] (reason)",
+    "example": "jail @tess",
+    "cooldown": "1",
+    "permissions": "moderate_members",
+    "donor": false,
+    "parameters": [
+      "user",
+      "reason"
+    ]
+  }
+  

@@ -1,0 +1,17 @@
+{
+    "name": "pic",
+    "group": "channel",
+    "aliases": ["embeds"],
+    "help": "toggle embed images permission",
+    "syntax": "channel pic [on/off] (channel) (all) (excluded",
+    "example": "channel pic on #txt",
+    "cooldown": "5",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": [
+        "channel",
+      "option",
+      "target",
+      "excluded"
+    ]
+  }

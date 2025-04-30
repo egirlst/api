@@ -1,0 +1,14 @@
+{
+    "name": "unmute",
+    "aliases": [],
+    "help": "unmute a user",
+    "syntax": "unmute [user] (all)",
+    "example": "unmute @vole",
+    "cooldown": "5",
+    "permissions": "moderate_members",
+    "donor": false,
+    "parameters": [
+      "user",
+      "all"
+    ]
+  }

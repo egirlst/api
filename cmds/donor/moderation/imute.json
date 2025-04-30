@@ -1,0 +1,15 @@
+{
+    "name": "imute",
+    "aliases": [],
+    "help": "remove attachment permissions",
+    "syntax": "imute [user] (all)",
+    "example": "imute @vole",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": [
+      "user",
+      "all"
+    ]
+  }
+  

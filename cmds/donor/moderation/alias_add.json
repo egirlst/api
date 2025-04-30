@@ -1,0 +1,13 @@
+{
+    "name": "add",
+    "group": "alias",
+    "aliases": [],
+    "help": "add an alias for a command",
+    "syntax": "alias add [command] [alias]",
+    "example": "alias add ban boot",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": ["cinnabd", "alias"]
+  }
+  

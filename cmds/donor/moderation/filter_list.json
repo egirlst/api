@@ -1,0 +1,13 @@
+{
+    "name": "list",
+    "group": "filter",
+    "aliases": [],
+    "help": "get filter words",
+    "syntax": "list",
+    "example": "filter list",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }
+  

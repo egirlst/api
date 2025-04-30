@@ -1,0 +1,14 @@
+{
+    "name": "role",
+    "aliases": ["r"],
+    "help": "manage roles",
+    "syntax": "role [user] [role1] (role2) (role3)",
+    "example": "role @user admin",
+    "cooldown": "5",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": [
+      "user",
+      "role"
+    ]
+  }

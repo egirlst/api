@@ -1,0 +1,13 @@
+{
+    "name": "update",
+    "group": "jail",
+    "aliases": [],
+    "help": "update jail configuration",
+    "syntax": "jail update",
+    "example": "jail update",
+    "cooldown": "10",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": []
+  }
+  

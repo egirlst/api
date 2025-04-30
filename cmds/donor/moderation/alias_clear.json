@@ -1,0 +1,13 @@
+{
+    "name": "clear",
+    "group": "alias",
+    "aliases": ["reset"],
+    "help": "clear all aliases",
+    "syntax": "alias clear",
+    "example": "alias clear",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }
+  

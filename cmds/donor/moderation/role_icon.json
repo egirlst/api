@@ -1,0 +1,15 @@
+{
+    "name": "icon",
+    "group": "role",
+    "aliases": [],
+    "help": "set role icon",
+    "syntax": "role icon [role name] (emoji/attachment)",
+    "example": "role icon egirls 🩷",
+    "cooldown": "5",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": [
+      "role",
+      "icon"
+    ]
+  }

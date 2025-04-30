@@ -1,0 +1,14 @@
+{
+    "name": "add",
+    "group": "roleonjoin",
+    "aliases": ["create"],
+    "help": "adds a role when a user joins the server",
+    "syntax": "rj add [role] ",
+    "example": "rj add saints",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": [
+      "role"
+    ]
+  }

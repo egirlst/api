@@ -1,0 +1,13 @@
+{
+    "name": "list",
+    "group": "alias",
+    "aliases": [],
+    "help": "list all aliases",
+    "syntax": "alias list",
+    "example": "alias list",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }
+  

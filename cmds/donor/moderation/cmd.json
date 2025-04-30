@@ -1,0 +1,12 @@
+{
+    "name": "cmd",
+    "aliases": [],
+    "help": "manage server commands",
+    "syntax": "cmd",
+    "example": "cmd",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }
+  

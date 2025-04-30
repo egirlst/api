@@ -1,0 +1,15 @@
+{
+    "name": "unjail",
+    "aliases": [],
+    "help": "remove jail from user",
+    "syntax": "unjail [user] (reason)",
+    "example": "unjail @tess",
+    "cooldown": "1",
+    "permissions": "moderate_members",
+    "donor": false,
+    "parameters": [
+      "user",
+      "reason"
+    ]
+  }
+  

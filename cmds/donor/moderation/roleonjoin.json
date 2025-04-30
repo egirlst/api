@@ -1,0 +1,12 @@
+{
+    "name": "roleonjoin",
+    "aliases": ["rj"],
+    "help": "get rj message",
+    "syntax": "rj",
+    "example": "rj",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }
+  

@@ -1,0 +1,15 @@
+{
+    "name": "between",
+    "group": "purge",
+    "aliases": ["inbetween"],
+    "help": "delete messages between two message IDs",
+    "syntax": "purge between [id1] [id2]",
+    "example": "purge between 1234567890123456 1234567890123457",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": [
+      "start_reference",
+      "end_reference"
+    ]
+  }

@@ -1,0 +1,15 @@
+{
+    "name": "make",
+    "group": "role",
+    "aliases": ["create"],
+    "help": "create a new role",
+    "syntax": "role make [role name]",
+    "example": "role make cool guys",
+    "cooldown": "5",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": [
+      "role",
+      "name"
+    ]
+  }

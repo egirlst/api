@@ -1,0 +1,16 @@
+{
+    "name": "hide",
+    "aliases": [],
+    "help": "hide channels from everyone",
+    "syntax": "hide (channel/catogory) (all) (excluded channels/catogorys...)",
+    "example": "hide #txt",
+    "cooldown": "5",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": [
+      "channel",
+      "all",
+      "excluded",
+      "catogorys"
+    ]
+}

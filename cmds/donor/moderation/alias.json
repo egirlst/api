@@ -1,0 +1,12 @@
+{
+    "name": "alias",
+    "aliases": [],
+    "help": "manage command aliases",
+    "syntax": "alias",
+    "example": "alias",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }
+  

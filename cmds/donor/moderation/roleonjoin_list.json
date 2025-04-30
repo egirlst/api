@@ -1,0 +1,13 @@
+{
+    "name": "list",
+    "group": "roleonjoin",
+    "aliases": [],
+    "help": "get roleonjoin roles",
+    "syntax": "rj list",
+    "example": "rj list",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }
+  

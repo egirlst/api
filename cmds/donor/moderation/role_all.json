@@ -1,0 +1,14 @@
+{
+    "name": "all",
+    "group": "role",
+    "aliases": [],
+    "help": "add role to all members",
+    "syntax": "role all [role]",
+    "example": "role all saints",
+    "cooldown": "60",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": [
+      "role"
+    ]
+  }

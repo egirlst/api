@@ -1,0 +1,13 @@
+{
+    "name": "bc",
+    "aliases": ["clearbot"],
+    "help": "delete bot and webhook messages",
+    "syntax": "bc [amount]",
+    "example": "bc 15",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": [
+      "amount"
+    ]
+  }

@@ -1,0 +1,15 @@
+{
+    "name": "setup",
+    "group": "jail",
+    "aliases": [],
+    "help": "setup jail configuration",
+    "syntax": "jail setup (channel)",
+    "example": "jail setup",
+    "cooldown": "20",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": [
+      "channel"
+    ]
+  }
+  

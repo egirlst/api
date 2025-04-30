@@ -1,0 +1,15 @@
+{
+    "name": "contain",
+    "group": "purge",
+    "aliases": ["contains"],
+    "help": "delete messages containing text",
+    "syntax": "purge contain [text] [amount]",
+    "example": "purge contain ugly 30",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": [
+      "text",
+      "amount"
+    ]
+  }

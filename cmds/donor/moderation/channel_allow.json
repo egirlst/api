@@ -1,0 +1,16 @@
+{
+    "name": "allow",
+    "group": "channel",
+    "aliases": [],
+    "help": "allow a user/role to access a channel",
+    "syntax": "channel allow (all/channel) [user/role] [hide/read/speak/mute] (excluded)",
+    "example": "channel allow @vole",
+    "cooldown": "5",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": [
+      "target",
+      "permission",
+      "channel"
+    ]
+  }
