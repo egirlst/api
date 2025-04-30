@@ -1,0 +1,11 @@
+{
+    "name": "leave",
+    "aliases": ["goodbey"],
+    "help": "manage leave messages",
+    "syntax": "leave",
+    "example": "leave",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

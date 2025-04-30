@@ -1,0 +1,12 @@
+{
+    "name": "del",
+    "group": "emoji",
+    "aliases": ["delete", "remove"],
+    "help": "delete an emoji",
+    "syntax": "emoji del [emoji]",
+    "example": "emoji del :saint:",
+    "cooldown": "5",
+    "permissions": "manage_emojis",
+    "donor": false,
+    "parameters": ["emoji"]
+  }

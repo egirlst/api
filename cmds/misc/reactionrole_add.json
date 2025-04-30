@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "rr",
+    "aliases": [],
+    "help": "add a reaction role",
+    "syntax": "rr add [message_id] [emoji] [role]",
+    "example": "rr add 123456789 🌹 @egirls",
+    "cooldown": "5",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": ["message_id", "emoji", "role"]
+  }

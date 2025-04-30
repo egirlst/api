@@ -1,0 +1,12 @@
+{
+    "name": "reset",
+    "group": "leave",
+    "aliases": ["clear", "wipe"],
+    "help": "delete all leave messages",
+    "syntax": "leave reset",
+    "example": "leave reset",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "leave",
+    "aliases": ["msg", "message"],
+    "help": "setup leave message",
+    "syntax": "leave add (channel) [content]",
+    "example": "leave add #logs {user.name} has left the server!",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["channel", "content"]
+  }

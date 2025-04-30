@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "rr",
+    "aliases": ["delete"],
+    "help": "remove a reaction role",
+    "syntax": "rr remove [message_id] [emoji]",
+    "example": "rr remove 123456789 🌹",
+    "cooldown": "5",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": ["message_id", "emoji"]
+  }

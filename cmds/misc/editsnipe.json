@@ -1,0 +1,11 @@
+{
+    "name": "editsnipe",
+    "aliases": ["es"],
+    "help": "Retrieve the latest edited message",
+    "syntax": "editsnipe (num)",
+    "example": "editsnipe 2",
+    "cooldown": "3",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["num"]
+  }

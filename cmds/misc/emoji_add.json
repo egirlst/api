@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "emoji",
+    "aliases": [],
+    "help": "add an emoji to the server",
+    "syntax": "emoji add (url) (name)",
+    "example": "emoji add https://img.saint.bot/logo.png cool_emoji",
+    "cooldown": "5",
+    "permissions": "manage_emojis",
+    "donor": false,
+    "parameters": ["url", "name"]
+  }

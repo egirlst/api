@@ -1,0 +1,12 @@
+{
+    "name": "set",
+    "group": "prefix",
+    "aliases": [],
+    "help": "Set a custom prefix",
+    "syntax": "prefix set <new_prefix>",
+    "example": "prefix set !",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": ["new_prefix"]
+  }

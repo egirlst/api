@@ -1,0 +1,12 @@
+{
+    "name": "jumbo",
+    "group": "emoji",
+    "aliases": [],
+    "help": "enlarge an emoji",
+    "syntax": "emoji jumbo [emoji]",
+    "example": "emoji jumbo :saint:",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["emoji"]
+  }

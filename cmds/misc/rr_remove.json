@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "reaction",
+    "aliases": ["del", "delete"],
+    "help": "delete a reaction",
+    "syntax": "reaction remove [keyword] [emoji]",
+    "example": "reaction remove hello 🌹",
+    "cooldown": "7",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["keyword", "emoji"]
+  }

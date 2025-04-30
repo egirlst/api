@@ -1,0 +1,11 @@
+{
+    "name": "jumbo",
+    "aliases": [],
+    "help": "biggers a emoji",
+    "syntax": "jumbo [emoji_input]",
+    "example": "jumbo :pepe:",
+    "cooldown": "4",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["emoji_input"]
+  }

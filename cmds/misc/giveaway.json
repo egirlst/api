@@ -1,0 +1,11 @@
+{
+    "name": "giveaway",
+    "aliases": ["gw"],
+    "help": "giveaways",
+    "syntax": "giveaway",
+    "example": "giveaway",
+    "cooldown": "3",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

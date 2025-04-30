@@ -1,0 +1,12 @@
+{
+    "name": "myself",
+    "group": "msg",
+    "aliases": ["me", "u", "user"],
+    "help": "show your own stats",
+    "syntax": "msg myself [user]",
+    "example": "msg myself saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

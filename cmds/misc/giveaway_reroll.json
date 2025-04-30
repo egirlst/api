@@ -1,0 +1,12 @@
+{
+    "name": "reroll",
+    "group": "giveaway",
+    "aliases": [],
+    "help": "reroll giveaway winners",
+    "syntax": "giveaway reroll [message_id_or_link] (reroll_count)",
+    "example": "giveaway reroll 1234567890123456 2",
+    "cooldown": "5",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": ["message_id_or_link", "reroll_count"]
+  }

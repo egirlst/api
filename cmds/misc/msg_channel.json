@@ -1,0 +1,12 @@
+{
+    "name": "channel",
+    "group": "msg",
+    "aliases": ["c", "ch"],
+    "help": "show channel stats",
+    "syntax": "msg channel [channel]",
+    "example": "msg channel #general",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["channel"]
+  }

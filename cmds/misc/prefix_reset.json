@@ -1,0 +1,12 @@
+{
+    "name": "reset",
+    "group": "prefix",
+    "aliases": [],
+    "help": "Reset prefix to default",
+    "syntax": "prefix reset",
+    "example": "prefix reset",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }

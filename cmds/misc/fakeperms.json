@@ -1,0 +1,11 @@
+{
+    "name": "fakeperms",
+    "aliases": ["fp"],
+    "help": "manage fake permissions",
+    "syntax": "fakeperms [role_or_user] [perm_type] [perms]",
+    "example": "fakeperms @Moderator mod",
+    "cooldown": "10",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["role_or_user", "perm_type", "perms"]
+  }

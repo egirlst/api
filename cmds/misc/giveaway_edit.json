@@ -1,0 +1,12 @@
+{
+    "name": "edit",
+    "group": "giveaway",
+    "aliases": [],
+    "help": "edit a giveaway",
+    "syntax": "giveaway edit [edit_type] [message_id_or_link] [new_value]",
+    "example": "giveaway edit prize 1234567890123456 Discord Nitro Classic",
+    "cooldown": "5",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": ["edit_type", "message_id_or_link", "new_value"]
+  }

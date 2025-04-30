@@ -1,0 +1,11 @@
+{
+    "name": "prefix",
+    "aliases": [],
+    "help": "Manage bot prefix",
+    "syntax": "prefix",
+    "example": "prefix",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

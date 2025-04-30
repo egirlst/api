@@ -1,0 +1,12 @@
+{
+    "name": "clear",
+    "group": "reaction",
+    "aliases": ["clean", "removeall"],
+    "help": "clear all reactions of a word",
+    "syntax": "reaction clear [keyword]",
+    "example": "reaction clear hello",
+    "cooldown": "30",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["keyword"]
+  }

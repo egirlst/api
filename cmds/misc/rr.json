@@ -1,0 +1,11 @@
+{
+    "name": "reaction",
+    "aliases": ["react", "reactions"],
+    "help": "manage reactions to words",
+    "syntax": "reaction",
+    "example": "reaction",
+    "cooldown": "25",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

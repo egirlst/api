@@ -1,0 +1,12 @@
+{
+    "name": "end",
+    "group": "giveaway",
+    "aliases": [],
+    "help": "end a giveaway",
+    "syntax": "giveaway end [message_id_or_link]",
+    "example": "giveaway end 1234567890123456",
+    "cooldown": "5",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": ["message_id_or_link"]
+  }

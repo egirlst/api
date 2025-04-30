@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "leave",
+    "aliases": ["del", "delete"],
+    "help": "remove leave message",
+    "syntax": "leave remove [target]",
+    "example": "leave remove #logs",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["target"]
+  }

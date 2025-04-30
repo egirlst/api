@@ -1,0 +1,12 @@
+{
+    "name": "cancel",
+    "group": "giveaway",
+    "aliases": [],
+    "help": "cancel a giveaway",
+    "syntax": "giveaway cancel [message_id_or_link]",
+    "example": "giveaway cancel 1234567890123456",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": ["message_id_or_link"]
+  }

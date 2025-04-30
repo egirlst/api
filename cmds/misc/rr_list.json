@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "reaction",
+    "aliases": ["view", "see"],
+    "help": "see all reactions",
+    "syntax": "reaction list",
+    "example": "reaction list",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

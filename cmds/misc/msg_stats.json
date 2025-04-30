@@ -1,0 +1,11 @@
+{
+    "name": "msg",
+    "aliases": ["stats"],
+    "help": "message statistics",
+    "syntax": "msg",
+    "example": "msg",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

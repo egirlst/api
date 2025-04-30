@@ -1,0 +1,11 @@
+{
+    "name": "rr",
+    "aliases": ["reactionrole", "reactionroles"],
+    "help": "manage reaction roles",
+    "syntax": "rr",
+    "example": "rr",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

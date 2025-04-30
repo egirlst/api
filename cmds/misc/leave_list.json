@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "leave",
+    "aliases": ["msgs", "all"],
+    "help": "see leave messages",
+    "syntax": "leave list",
+    "example": "leave list",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }

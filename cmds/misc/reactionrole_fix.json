@@ -1,0 +1,12 @@
+{
+    "name": "fix",
+    "group": "rr",
+    "aliases": [],
+    "help": "fix reaction roles for a message",
+    "syntax": "rr fix [message_id]",
+    "example": "rr fix 123456789",
+    "cooldown": "5",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": ["message_id"]
+}

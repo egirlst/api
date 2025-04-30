@@ -1,0 +1,12 @@
+{
+    "name": "server",
+    "group": "msg",
+    "aliases": ["s", "guild"],
+    "help": "show server stats",
+    "syntax": "msg server",
+    "example": "msg server",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

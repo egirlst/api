@@ -1,0 +1,12 @@
+{
+    "name": "stats",
+    "group": "emoji",
+    "aliases": [],
+    "help": "show emoji usage statistics",
+    "syntax": "emoji stats",
+    "example": "emoji stats",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

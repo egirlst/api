@@ -1,0 +1,12 @@
+{
+    "name": "edit",
+    "group": "rr",
+    "aliases": [],
+    "help": "edit a reaction role",
+    "syntax": "rr edit [message_id] [old_value] [new_value]",
+    "example": "rr edit 123456789 🌹 🌸",
+    "cooldown": "5",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": ["message_id", "old_value", "new_value"]
+  }

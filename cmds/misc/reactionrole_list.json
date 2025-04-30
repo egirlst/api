@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "rr",
+    "aliases": [],
+    "help": "list all reaction roles",
+    "syntax": "rr list",
+    "example": "rr list",
+    "cooldown": "5",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": []
+  }

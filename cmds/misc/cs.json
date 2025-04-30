@@ -1,0 +1,11 @@
+{
+    "name": "cs",
+    "aliases": [],
+    "help": "Clear all snipes for this server",
+    "syntax": "cs",
+    "example": "cs",
+    "cooldown": "3",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": []
+  }

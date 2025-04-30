@@ -1,0 +1,11 @@
+{
+    "name": "emoji",
+    "aliases": ["emo", "e", "emote"],
+    "help": "manage server emojis",
+    "syntax": "emoji (emoji)",
+    "example": "emoji :saint:",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["emoji"]
+  }

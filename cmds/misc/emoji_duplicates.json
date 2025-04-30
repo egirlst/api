@@ -1,0 +1,12 @@
+{
+    "name": "duplicates",
+    "group": "emoji",
+    "aliases": ["dupes", "finddupes"],
+    "help": "find and remove duplicate emojis",
+    "syntax": "emoji duplicates",
+    "example": "emoji duplicates",
+    "cooldown": "5",
+    "permissions": "manage_emojis",
+    "donor": false,
+    "parameters": []
+  }

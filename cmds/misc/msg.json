@@ -1,0 +1,11 @@
+{
+    "name": "messages",
+    "aliases": ["msgs"],
+    "help": "Shows server message stats",
+    "syntax": "messages",
+    "example": "messages",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "start",
+    "group": "giveaway",
+    "aliases": [],
+    "help": "start a giveaway",
+    "syntax": "giveaway start (channel) [duration] [winners] [prize] (options)",
+    "example": "giveaway start #txt 24h 1 Nitro, color:pink, rep",
+    "cooldown": "8",
+    "permissions": "manage_channels",
+    "donor": false,
+    "parameters": ["channel", "duration", "winners", "prize", "options"]
+  }

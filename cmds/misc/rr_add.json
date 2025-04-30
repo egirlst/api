@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "reaction",
+    "aliases": [],
+    "help": "add a reaction to a word",
+    "syntax": "reaction add [keyword] [emoji1] (emoji2) ...",
+    "example": "reaction add vole 🤓",
+    "cooldown": "10",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["keyword", "emoji"]
+  }

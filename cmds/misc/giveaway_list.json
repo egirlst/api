@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "giveaway",
+    "aliases": [],
+    "help": "List all current giveaways",
+    "syntax": "giveaway list (page)",
+    "example": "giveaway list 2",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["page"]
+  }

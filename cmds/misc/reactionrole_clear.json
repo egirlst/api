@@ -1,0 +1,12 @@
+{
+    "name": "clear",
+    "group": "rr",
+    "aliases": [],
+    "help": "clear all reaction roles for a message",
+    "syntax": "rr clear [message_id]",
+    "example": "rr clear 123456789",
+    "cooldown": "5",
+    "permissions": "manage_roles",
+    "donor": false,
+    "parameters": ["message_id"]
+  }

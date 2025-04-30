@@ -1,0 +1,12 @@
+{
+    "name": "view",
+    "group": "leave",
+    "aliases": ["show", "preview", "see"],
+    "help": "view leave message",
+    "syntax": "leave view [target]",
+    "example": "leave view 123",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["target"]
+  }
