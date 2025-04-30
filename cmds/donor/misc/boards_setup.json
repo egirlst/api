@@ -1,0 +1,12 @@
+{
+    "name": "setup",
+    "group": "{name}board",
+    "aliases": [],
+    "help": "setup the board",
+    "syntax": "{name}board setup [channel] [emoji] [threshold]",
+    "example": "skullboard setup #highlights ☠️ 3",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["channel", "emoji", "threshold"]
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "ar",
+    "aliases": [],
+    "help": "add an autoresponse to a word",
+    "syntax": "ar add [word] [reply]",
+    "example": "ar add vole a bitchess",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["word", "reply"]
+  }

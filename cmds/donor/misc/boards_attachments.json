@@ -1,0 +1,12 @@
+{
+    "name": "attachments",
+    "group": "{name}board",
+    "aliases": [],
+    "help": "toggle attachments for the board",
+    "syntax": "{name}board attachments [true/false]",
+    "example": "skullboard attachments true",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["setting"]
+  }

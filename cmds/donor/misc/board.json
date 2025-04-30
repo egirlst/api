@@ -1,0 +1,11 @@
+{
+    "name": "board",
+    "aliases": [],
+    "help": "manage boards",
+    "syntax": "board",
+    "example": "board",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

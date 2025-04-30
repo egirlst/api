@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "boost",
+    "aliases": ["msgs", "all"],
+    "help": "see boost messages",
+    "syntax": "boost list",
+    "example": "boost list",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }

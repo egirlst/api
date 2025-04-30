@@ -1,0 +1,12 @@
+{
+    "name": "create",
+    "group": "board",
+    "aliases": [],
+    "help": "create a custom board",
+    "syntax": "board create [name]",
+    "example": "board create skull",
+    "cooldown": "10",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["name"]
+  }

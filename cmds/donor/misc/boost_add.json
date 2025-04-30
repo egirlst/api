@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "boost",
+    "aliases": ["msg", "message"],
+    "help": "setup boost message",
+    "syntax": "boost add (channel) [content]",
+    "example": "boost add #announcements Thank you {user.mention} for the boost!",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["channel", "content"]
+  }

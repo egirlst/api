@@ -1,0 +1,12 @@
+{
+    "name": "leaderboard",
+    "group": "{name}board",
+    "aliases": [],
+    "help": "view board leaderboard",
+    "syntax": "{name}board leaderboard [limit]",
+    "example": "skullboard leaderboard 10",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["limit"]
+  }

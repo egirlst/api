@@ -1,0 +1,12 @@
+{
+    "name": "lock",
+    "group": "{name}board",
+    "aliases": [],
+    "help": "lock the board",
+    "syntax": "{name}board lock",
+    "example": "skullboard lock",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }

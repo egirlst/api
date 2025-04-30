@@ -1,0 +1,12 @@
+{
+    "name": "timestamp",
+    "group": "{name}board",
+    "aliases": [],
+    "help": "toggle timestamp for the board",
+    "syntax": "{name}board timestamp [true/false]",
+    "example": "skullboard timestamp true",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["setting"]
+  }

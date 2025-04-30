@@ -1,0 +1,12 @@
+{
+    "name": "stats",
+    "group": "board",
+    "aliases": [],
+    "help": "view board statistics",
+    "syntax": "board stats",
+    "example": "board stats",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

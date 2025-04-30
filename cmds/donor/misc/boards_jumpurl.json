@@ -1,0 +1,12 @@
+{
+    "name": "jumpurl",
+    "group": "{name}board",
+    "aliases": [],
+    "help": "toggle jump URL for the board",
+    "syntax": "{name}board jumpurl [true/false]",
+    "example": "skullboard jumpurl true",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["setting"]
+  }

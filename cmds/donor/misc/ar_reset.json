@@ -1,0 +1,12 @@
+{
+    "name": "reset",
+    "group": "ar",
+    "aliases": ["clear"],
+    "help": "clear all autoresponses",
+    "syntax": "ar reset",
+    "example": "ar reset",
+    "cooldown": "60",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }

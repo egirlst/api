@@ -1,0 +1,12 @@
+{
+    "name": "delete",
+    "group": "board",
+    "aliases": [],
+    "help": "delete a custom board",
+    "syntax": "board delete [name]",
+    "example": "board delete skull",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["name"]
+  }

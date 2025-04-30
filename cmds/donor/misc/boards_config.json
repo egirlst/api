@@ -1,0 +1,12 @@
+{
+    "name": "config",
+    "group": "{name}board",
+    "aliases": [],
+    "help": "view board configuration",
+    "syntax": "{name}board config",
+    "example": "skullboard config",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "boost",
+    "aliases": [],
+    "help": "manage boost messages",
+    "syntax": "boost",
+    "example": "boost",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

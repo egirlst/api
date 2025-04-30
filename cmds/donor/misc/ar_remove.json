@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "ar",
+    "aliases": ["delete"],
+    "help": "delete an autoresponse",
+    "syntax": "ar remove [word]",
+    "example": "ar remove hello",
+    "cooldown": "7",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["word"]
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "ar",
+    "aliases": ["autoresponder", "autoresponse"],
+    "help": "manage autoresponses",
+    "syntax": "ar",
+    "example": "ar",
+    "cooldown": "25",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "threshold",
+    "group": "{name}board",
+    "aliases": [],
+    "help": "set the threshold for the board",
+    "syntax": "{name}board threshold [amount]",
+    "example": "skullboard threshold 5",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["amount"]
+  }

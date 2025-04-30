@@ -1,0 +1,12 @@
+{
+    "name": "emoji",
+    "group": "{name}board",
+    "aliases": [],
+    "help": "set the emoji for the board",
+    "syntax": "{name}board emoji [emoji]",
+    "example": "skullboard emoji ☠️",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["emoji"]
+  }

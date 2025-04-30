@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "boost",
+    "aliases": ["del", "delete"],
+    "help": "delete boost message",
+    "syntax": "boost remove [target]",
+    "example": "boost remove 123",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["target"]
+  }

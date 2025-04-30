@@ -1,0 +1,12 @@
+{
+    "name": "channel",
+    "group": "{name}board",
+    "aliases": [],
+    "help": "set the channel for the board",
+    "syntax": "{name}board channel [channel]",
+    "example": "skullboard channel #highlights",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["channel"]
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "color",
+    "group": "{name}board",
+    "aliases": [],
+    "help": "set the color for the board",
+    "syntax": "{name}board color [hex color]",
+    "example": "skullboard color #ff5500",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["color"]
+  }

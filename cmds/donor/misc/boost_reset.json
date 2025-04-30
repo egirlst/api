@@ -1,0 +1,12 @@
+{
+    "name": "reset",
+    "group": "boost",
+    "aliases": ["clear", "wipe"],
+    "help": "delete all boost messages",
+    "syntax": "boost reset",
+    "example": "boost reset",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }

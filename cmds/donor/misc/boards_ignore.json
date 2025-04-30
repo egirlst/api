@@ -1,0 +1,12 @@
+{
+    "name": "ignore",
+    "group": "{name}board",
+    "aliases": [],
+    "help": "toggle ignore for a channel/role/user",
+    "syntax": "{name}board ignore [channel/role/user]",
+    "example": "skullboard ignore #memes",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["target"]
+  }

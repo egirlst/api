@@ -1,0 +1,12 @@
+{
+    "name": "unlock",
+    "group": "{name}board",
+    "aliases": [],
+    "help": "unlock the board",
+    "syntax": "{name}board unlock",
+    "example": "skullboard unlock",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }

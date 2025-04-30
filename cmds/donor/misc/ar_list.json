@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "ar",
+    "aliases": [],
+    "help": "see all autoresponses",
+    "syntax": "ar list",
+    "example": "ar list",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

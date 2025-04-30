@@ -1,0 +1,12 @@
+{
+    "name": "view",
+    "group": "boost",
+    "aliases": ["show", "preview", "see"],
+    "help": "view boost message",
+    "syntax": "boost view [target]",
+    "example": "boost view #announcements",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["target"]
+  }

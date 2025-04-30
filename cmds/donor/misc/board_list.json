@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "board",
+    "aliases": [],
+    "help": "list all boards in this server",
+    "syntax": "board list",
+    "example": "board list",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

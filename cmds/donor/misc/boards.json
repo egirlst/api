@@ -1,0 +1,11 @@
+{
+    "name": "{name}board",
+    "aliases": [],
+    "help": "manage the {name} board",
+    "syntax": "{name}board",
+    "example": "skullboard",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }
