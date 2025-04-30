@@ -1,0 +1,11 @@
+{
+    "name": "back",
+    "aliases": ["previous", "prev"],
+    "help": "play the previous song",
+    "syntax": "back",
+    "example": "back",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

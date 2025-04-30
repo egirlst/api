@@ -1,0 +1,12 @@
+{
+    "name": "enable",
+    "group": "antiraid",
+    "aliases": [],
+    "help": "enable anti-raid module",
+    "syntax": "antiraid enable <module>",
+    "example": "antiraid enable all",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["module"]
+  }

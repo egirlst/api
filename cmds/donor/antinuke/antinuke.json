@@ -1,0 +1,11 @@
+{
+    "name": "antinuke",
+    "aliases": ["anti", "an"],
+    "help": "manage server anti-nuke system",
+    "syntax": "antinuke",
+    "example": "antinuke",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

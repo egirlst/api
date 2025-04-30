@@ -1,0 +1,11 @@
+{
+    "name": "time",
+    "aliases": ["position"],
+    "help": "shows the current track position",
+    "syntax": "time",
+    "example": "time",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

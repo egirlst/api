@@ -1,0 +1,11 @@
+{
+    "name": "br",
+    "aliases": [],
+    "help": "manage booster roles",
+    "syntax": "br",
+    "example": "br",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

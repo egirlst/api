@@ -1,0 +1,12 @@
+{
+    "name": "cleanup",
+    "group": "br",
+    "aliases": [],
+    "help": "remove roles from users who unboosted",
+    "syntax": "br cleanup",
+    "example": "br cleanup",
+    "cooldown": "20",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }

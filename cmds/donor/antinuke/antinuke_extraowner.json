@@ -1,0 +1,12 @@
+{
+    "name": "extraowner",
+    "group": "antinuke",
+    "aliases": ["eo"],
+    "help": "set an extra owner for anti-nuke",
+    "syntax": "antinuke extraowner <user>",
+    "example": "antinuke extraowner @user",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

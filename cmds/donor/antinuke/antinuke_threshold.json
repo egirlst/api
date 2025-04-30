@@ -1,0 +1,12 @@
+{
+    "name": "threshold",
+    "group": "antinuke",
+    "aliases": [],
+    "help": "set module action threshold",
+    "syntax": "antinuke threshold <module> <threshold>",
+    "example": "antinuke threshold kick 3",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["module", "threshold"]
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "share",
+    "group": "br",
+    "aliases": [],
+    "help": "share your booster role with someone",
+    "syntax": "br share [user]",
+    "example": "br share saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "volume",
+    "aliases": ["vol"],
+    "help": "adjust the player volume",
+    "syntax": "volume (volume)",
+    "example": "volume 50",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["volume"]
+  }

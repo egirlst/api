@@ -1,0 +1,12 @@
+{
+    "name": "reset",
+    "group": "br",
+    "aliases": [],
+    "help": "reset all booster roles and settings",
+    "syntax": "br reset",
+    "example": "br reset",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }

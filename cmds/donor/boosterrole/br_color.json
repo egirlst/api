@@ -1,0 +1,12 @@
+{
+    "name": "color",
+    "group": "br",
+    "aliases": ["colour"],
+    "help": "change your booster role color",
+    "syntax": "br color [color]",
+    "example": "br color pink",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["color"]
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "name",
+    "group": "br",
+    "aliases": ["rename"],
+    "help": "change your booster role name",
+    "syntax": "br name [name]",
+    "example": "br name VIP Member",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["name"]
+  }

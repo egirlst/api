@@ -1,0 +1,12 @@
+{
+    "name": "punishment",
+    "group": "antinuke",
+    "aliases": [],
+    "help": "set module punishment type",
+    "syntax": "antinuke punishment <module> <ban/kick/strip>",
+    "example": "antinuke punishment kick ban",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["module", "punishment"]
+  }

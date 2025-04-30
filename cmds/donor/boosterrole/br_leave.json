@@ -1,0 +1,12 @@
+{
+    "name": "leave",
+    "group": "br",
+    "aliases": ["unshare"],
+    "help": "leave a shared booster role",
+    "syntax": "br leave",
+    "example": "br leave",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

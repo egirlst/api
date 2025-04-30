@@ -1,0 +1,11 @@
+{
+    "name": "remove",
+    "aliases": ["rm"],
+    "help": "remove a song from the queue",
+    "syntax": "remove [position]",
+    "example": "remove 3",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["position"]
+  }

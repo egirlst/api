@@ -1,0 +1,12 @@
+{
+    "name": "enable",
+    "group": "br share",
+    "aliases": [],
+    "help": "enable booster role sharing",
+    "syntax": "br share enable",
+    "example": "br share enable",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }

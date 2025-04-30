@@ -1,0 +1,12 @@
+{
+    "name": "icon",
+    "group": "br",
+    "aliases": [],
+    "help": "set your booster role icon",
+    "syntax": "br icon [emoji]",
+    "example": "br icon 🌹",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["emoji"]
+  }

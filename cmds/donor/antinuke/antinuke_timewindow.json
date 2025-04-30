@@ -1,0 +1,12 @@
+{
+    "name": "timewindow",
+    "group": "antinuke",
+    "aliases": ["time"],
+    "help": "set module time window",
+    "syntax": "antinuke timewindow <module> <seconds>",
+    "example": "antinuke timewindow kick 60",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["module", "seconds"]
+  }

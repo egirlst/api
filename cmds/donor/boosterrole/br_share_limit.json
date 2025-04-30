@@ -1,0 +1,12 @@
+{
+    "name": "limit",
+    "group": "br share",
+    "aliases": [],
+    "help": "set a limit for booster role sharing",
+    "syntax": "br share limit (limit)",
+    "example": "br share limit 5",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": ["limit"]
+  }

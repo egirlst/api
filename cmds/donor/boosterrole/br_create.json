@@ -1,0 +1,12 @@
+{
+    "name": "create",
+    "group": "br",
+    "aliases": ["make"],
+    "help": "create a new booster role",
+    "syntax": "br create (name) (color) (emoji)",
+    "example": "br create VIP pink 🌹",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["name", "color", "emoji"]
+  }

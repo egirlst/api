@@ -1,0 +1,12 @@
+{
+    "name": "disable",
+    "group": "br share",
+    "aliases": [],
+    "help": "disable booster role sharing",
+    "syntax": "br share disable",
+    "example": "br share disable",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }

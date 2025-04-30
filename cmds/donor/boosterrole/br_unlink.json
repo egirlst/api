@@ -1,0 +1,12 @@
+{
+    "name": "unlink",
+    "group": "br",
+    "aliases": [],
+    "help": "convert a booster role to a normal role",
+    "syntax": "br unlink",
+    "example": "br unlink",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

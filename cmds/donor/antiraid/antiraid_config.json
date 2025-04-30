@@ -1,0 +1,12 @@
+{
+    "name": "config",
+    "group": "antiraid",
+    "aliases": ["settings", "info"],
+    "help": "view anti-raid configuration",
+    "syntax": "antiraid config",
+    "example": "antiraid config",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

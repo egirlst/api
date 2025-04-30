@@ -1,0 +1,12 @@
+{
+    "name": "config",
+    "group": "antinuke",
+    "aliases": ["settings", "info"],
+    "help": "view anti-nuke configuration",
+    "syntax": "antinuke config",
+    "example": "antinuke config",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

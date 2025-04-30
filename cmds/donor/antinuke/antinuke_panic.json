@@ -1,0 +1,12 @@
+{
+    "name": "panic",
+    "group": "antinuke",
+    "aliases": [],
+    "help": "enable/disable panic mode",
+    "syntax": "antinuke panic <on/off>",
+    "example": "antinuke panic on",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["state"]
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "enable",
+    "group": "br",
+    "aliases": [],
+    "help": "enable booster roles",
+    "syntax": "br enable",
+    "example": "br enable",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }

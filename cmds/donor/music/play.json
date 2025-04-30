@@ -1,0 +1,11 @@
+{
+    "name": "play",
+    "aliases": ["p"],
+    "help": "play a song from URL or search query",
+    "syntax": "play [query]",
+    "example": "play closer diamonds ken carson",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["query"]
+  }

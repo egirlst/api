@@ -1,0 +1,12 @@
+{
+    "name": "disable",
+    "group": "br",
+    "aliases": [],
+    "help": "disable booster roles",
+    "syntax": "br disable",
+    "example": "br disable",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "setup",
+    "group": "antiraid",
+    "aliases": [],
+    "help": "set up the anti-raid system",
+    "syntax": "antiraid setup",
+    "example": "antiraid setup",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

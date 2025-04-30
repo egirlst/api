@@ -1,0 +1,12 @@
+{
+    "name": "disable",
+    "group": "antiraid",
+    "aliases": [],
+    "help": "disable anti-raid module",
+    "syntax": "antiraid disable <module>",
+    "example": "antiraid disable all",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["module"]
+  }

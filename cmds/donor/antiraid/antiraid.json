@@ -1,0 +1,11 @@
+{
+    "name": "antiraid",
+    "aliases": ["anr"],
+    "help": "manage server anti-raid system",
+    "syntax": "antiraid",
+    "example": "antiraid",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

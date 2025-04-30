@@ -1,0 +1,12 @@
+{
+    "name": "logging",
+    "group": "antiraid",
+    "aliases": [],
+    "help": "set logging channel",
+    "syntax": "antiraid logging <channel>",
+    "example": "antiraid logging #logs",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["channel"]
+  }

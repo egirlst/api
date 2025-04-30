@@ -1,0 +1,11 @@
+{
+    "name": "stop",
+    "aliases": ["disconnect"],
+    "help": "stop playback and leave voice channel",
+    "syntax": "stop",
+    "example": "stop",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

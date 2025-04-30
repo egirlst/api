@@ -1,0 +1,11 @@
+{
+    "name": "skip",
+    "aliases": ["next"],
+    "help": "skip the current song",
+    "syntax": "skip",
+    "example": "skip",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

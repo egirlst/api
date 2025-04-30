@@ -1,0 +1,12 @@
+{
+    "name": "random",
+    "group": "br",
+    "aliases": [],
+    "help": "create a random booster role",
+    "syntax": "br random",
+    "example": "br random",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

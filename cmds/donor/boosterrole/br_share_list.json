@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "br share",
+    "aliases": [],
+    "help": "list all shared booster roles",
+    "syntax": "br share list",
+    "example": "br share list",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }

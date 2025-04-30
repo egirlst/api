@@ -1,0 +1,12 @@
+{
+    "name": "del",
+    "group": "br",
+    "aliases": ["delete"],
+    "help": "delete your booster role",
+    "syntax": "br del",
+    "example": "br del",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

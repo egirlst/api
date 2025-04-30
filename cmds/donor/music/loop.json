@@ -1,0 +1,11 @@
+{
+    "name": "loop",
+    "aliases": ["repeat"],
+    "help": "toggle track loop mode",
+    "syntax": "loop",
+    "example": "loop",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

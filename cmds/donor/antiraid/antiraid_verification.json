@@ -1,0 +1,12 @@
+{
+    "name": "verification",
+    "group": "antiraid",
+    "aliases": [],
+    "help": "set verification channel",
+    "syntax": "antiraid verification <channel>",
+    "example": "antiraid verification #verify",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["channel"]
+  }

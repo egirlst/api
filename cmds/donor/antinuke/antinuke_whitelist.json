@@ -1,0 +1,12 @@
+{
+    "name": "whitelist",
+    "group": "antinuke",
+    "aliases": ["wl"],
+    "help": "manage anti-nuke whitelist",
+    "syntax": "antinuke whitelist <add/remove> <user>",
+    "example": "antinuke whitelist add @user",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["action", "user"]
+  }

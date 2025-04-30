@@ -1,0 +1,12 @@
+{
+    "name": "whitelist",
+    "group": "antiraid",
+    "aliases": ["wl"],
+    "help": "manage anti-raid whitelist",
+    "syntax": "antiraid whitelist <user/role/channel> <add/remove> <target>",
+    "example": "antiraid whitelist user add @user",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["type", "action", "target"]
+  }

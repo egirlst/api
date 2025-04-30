@@ -1,0 +1,12 @@
+{
+    "name": "settings",
+    "group": "br",
+    "aliases": [],
+    "help": "view booster role settings",
+    "syntax": "br settings",
+    "example": "br settings",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }

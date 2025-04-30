@@ -1,0 +1,11 @@
+{
+    "name": "queue",
+    "aliases": ["q", "playlist"],
+    "help": "show the current queue",
+    "syntax": "queue",
+    "example": "queue",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

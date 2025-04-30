@@ -1,0 +1,12 @@
+{
+    "name": "setup",
+    "group": "antinuke",
+    "aliases": [],
+    "help": "set up the anti-nuke system",
+    "syntax": "antinuke setup",
+    "example": "antinuke setup",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

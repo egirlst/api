@@ -1,0 +1,11 @@
+{
+    "name": "resume",
+    "aliases": [],
+    "help": "resume the paused song",
+    "syntax": "resume",
+    "example": "resume",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

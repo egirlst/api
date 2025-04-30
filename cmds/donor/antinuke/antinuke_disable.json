@@ -1,0 +1,12 @@
+{
+    "name": "disable",
+    "group": "antinuke",
+    "aliases": [],
+    "help": "disable anti-nuke module",
+    "syntax": "antinuke disable <module>",
+    "example": "antinuke disable all",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["module"]
+  }

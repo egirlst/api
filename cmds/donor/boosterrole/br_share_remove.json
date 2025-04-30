@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "br share",
+    "aliases": ["rmv"],
+    "help": "remove someone from your shared booster role",
+    "syntax": "br share remove [user]",
+    "example": "br share remove saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

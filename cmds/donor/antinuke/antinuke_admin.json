@@ -1,0 +1,12 @@
+{
+    "name": "admin",
+    "group": "antinuke",
+    "aliases": [],
+    "help": "manage anti-nuke admins",
+    "syntax": "antinuke admin <add/remove> <user>",
+    "example": "antinuke admin add @user",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["action", "user"]
+  }
