@@ -128,7 +128,7 @@ get '/cmds/' do
   commands.to_json
 end
 
-get '/update' do
+post '/update' do
   content_type :json
   result = check_for_updates
   
@@ -138,6 +138,7 @@ get '/update' do
     { success: false, message: "No updates available" }.to_json
   end
 end
+
 
 get '/' do
   content_type :html
