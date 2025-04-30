@@ -1,0 +1,12 @@
+{
+    "name": "spotifytrack",
+    "group": "fm",
+    "aliases": ["spt"],
+    "help": "get spotify link for a track",
+    "syntax": "fm spotifytrack (user) (track)",
+    "example": "fm spotifytrack saint Nights",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user", "track"]
+  }

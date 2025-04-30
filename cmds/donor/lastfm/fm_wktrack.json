@@ -1,0 +1,12 @@
+{
+    "name": "wktrack",
+    "group": "fm",
+    "aliases": ["whoknowstrack", "wkt"],
+    "help": "see who knows a track in the server",
+    "syntax": "fm wktrack (track)",
+    "example": "fm wktrack Nights",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["track"]
+  }

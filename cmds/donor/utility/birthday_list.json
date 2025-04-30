@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "birthday",
+    "aliases": ["all"],
+    "help": "List all server birthdays, sorted by upcoming.",
+    "syntax": "birthday list",
+    "example": "birthday list",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

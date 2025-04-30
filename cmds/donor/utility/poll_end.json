@@ -1,0 +1,12 @@
+{
+    "name": "end",
+    "group": "poll",
+    "aliases": [],
+    "help": "end a poll",
+    "syntax": "poll end [message_id]",
+    "example": "poll end 123456789012345678",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["message_id"]
+  }

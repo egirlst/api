@@ -1,0 +1,13 @@
+{
+    "name": "reset",
+    "group": "logging",
+    "aliases": [],
+    "help": "Reset logging settings to default",
+    "syntax": "logging reset",
+    "example": "logging reset",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }
+  

@@ -1,0 +1,12 @@
+{
+    "name": "kick",
+    "group": "voicemaster",
+    "aliases": ["reject"],
+    "help": "reject person from joining",
+    "syntax": "voicemaster kick [user]",
+    "example": "voicemaster kick @vole",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

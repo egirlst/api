@@ -1,0 +1,12 @@
+{
+    "name": "refresh",
+    "group": "voicemaster",
+    "aliases": [],
+    "help": "Refresh VoiceMaster channels",
+    "syntax": "voicemaster refresh",
+    "example": "voicemaster refresh",
+    "cooldown": "60",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }

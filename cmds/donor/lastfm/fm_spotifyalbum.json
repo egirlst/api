@@ -1,0 +1,12 @@
+{
+    "name": "spotifyalbum",
+    "group": "fm",
+    "aliases": ["spalb"],
+    "help": "get spotify link for an album",
+    "syntax": "fm spotifyalbum (user) (album)",
+    "example": "fm spotifyalbum saint Blonde",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user", "album"]
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "tr",
+    "aliases": ["translate"],
+    "help": "translate text to another language",
+    "syntax": "tr [target_lang] (text)",
+    "example": "tr nl we love saint bot",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["target_lang", "text"]
+  }

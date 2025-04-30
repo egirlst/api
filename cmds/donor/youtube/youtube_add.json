@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "youtube",
+    "aliases": [],
+    "help": "add youtube channel",
+    "syntax": "youtube add [channel]",
+    "example": "youtube add pewdiepie",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["channel"]
+  }

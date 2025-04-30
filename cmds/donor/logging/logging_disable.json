@@ -1,0 +1,13 @@
+{
+    "name": "disable",
+    "group": "logging",
+    "aliases": [],
+    "help": "Disable message or mod logging",
+    "syntax": "logging disable [message/mod]",
+    "example": "logging disable mod",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["log_type"]
+  }
+  

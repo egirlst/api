@@ -1,0 +1,12 @@
+{
+    "name": "privacy",
+    "group": "names",
+    "aliases": [],
+    "help": "toggle name history privacy",
+    "syntax": "names privacy",
+    "example": "names privacy",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

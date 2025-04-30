@@ -1,0 +1,12 @@
+{
+    "name": "recents",
+    "group": "fm",
+    "aliases": ["recent"],
+    "help": "view your recent tracks",
+    "syntax": "fm recents (user)",
+    "example": "fm recents saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

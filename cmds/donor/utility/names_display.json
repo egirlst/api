@@ -1,0 +1,12 @@
+{
+    "name": "display",
+    "group": "names",
+    "aliases": [],
+    "help": "view display name history",
+    "syntax": "names display (user",
+    "example": "names display saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

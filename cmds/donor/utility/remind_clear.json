@@ -1,0 +1,12 @@
+{
+    "name": "clear",
+    "group": "remind",
+    "aliases": ["reset"],
+    "help": "remove all your reminders",
+    "syntax": "remind clear",
+    "example": "remind clear",
+    "cooldown": "10",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

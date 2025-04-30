@@ -1,0 +1,11 @@
+{
+    "name": "saint",
+    "aliases": [],
+    "help": "send the video",
+    "syntax": "saint [url]",
+    "example": "saint https://instagram.com/reel/example",
+    "cooldown": "4",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["url"]
+  }

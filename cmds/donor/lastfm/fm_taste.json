@@ -1,0 +1,12 @@
+{
+    "name": "taste",
+    "group": "fm",
+    "aliases": ["compare"],
+    "help": "compare music taste with another user",
+    "syntax": "fm taste [user] (period)",
+    "example": "fm taste saint overall",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user", "period"]
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "lyrics",
+    "group": "fm",
+    "aliases": ["lyr"],
+    "help": "get lyrics for current track",
+    "syntax": "fm lyrics (user)",
+    "example": "fm lyrics saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

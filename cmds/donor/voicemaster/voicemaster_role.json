@@ -1,0 +1,12 @@
+{
+    "name": "role",
+    "group": "voicemaster",
+    "aliases": ["allowrole"],
+    "help": "allow a role to join vc",
+    "syntax": "voicemaster role [role_name]",
+    "example": "voicemaster role Members",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["role_name"]
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "mostcrowns",
+    "group": "fm",
+    "aliases": ["mc", "topcrowns"],
+    "help": "view users with most artist crowns",
+    "syntax": "fm mostcrowns",
+    "example": "fm mostcrowns",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

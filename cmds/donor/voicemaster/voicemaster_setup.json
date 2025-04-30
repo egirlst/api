@@ -1,0 +1,12 @@
+{
+    "name": "setup",
+    "group": "voicemaster",
+    "aliases": [],
+    "help": "Setup voicemaster system",
+    "syntax": "voicemaster setup [category_id]",
+    "example": "voicemaster setup",
+    "cooldown": "60",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["category_id"]
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "unmute",
+    "group": "voicemaster",
+    "aliases": [],
+    "help": "Server unmute a user in your current voice channel",
+    "syntax": "voicemaster unmute [user]",
+    "example": "voicemaster unmute @vole",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "ah",
+    "aliases": ["avatarhistory"],
+    "help": "view and manage avatar history",
+    "syntax": "ah [user]",
+    "example": "ah saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

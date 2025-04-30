@@ -1,0 +1,12 @@
+{
+    "name": "playsall",
+    "group": "fm",
+    "aliases": ["albumplays"],
+    "help": "view plays for all songs in an album",
+    "syntax": "fm playsall (user) (album)",
+    "example": "fm playsall saint Blonde",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user", "album"]
+  }

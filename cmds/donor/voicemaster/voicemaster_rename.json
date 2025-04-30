@@ -1,0 +1,12 @@
+{
+    "name": "rename",
+    "group": "voicemaster",
+    "aliases": ["name"],
+    "help": "rename vc",
+    "syntax": "voicemaster rename [name]",
+    "example": "voicemaster rename esex",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["name"]
+  }

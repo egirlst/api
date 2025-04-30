@@ -1,0 +1,11 @@
+{
+    "name": "afk",
+    "aliases": ["adk"],
+    "help": "set yourself as afk",
+    "syntax": "afk (reason)",
+    "example": "afk eating vole out",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["reason"]
+  }

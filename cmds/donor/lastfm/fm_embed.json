@@ -1,0 +1,12 @@
+{
+    "name": "embed",
+    "group": "fm",
+    "aliases": ["format"],
+    "help": "set custom embed format",
+    "syntax": "fm embed [format_str]",
+    "example": "fm embed Now Playing: {track.name} by {artist.name}",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": true,
+    "parameters": ["format_str"]
+  }

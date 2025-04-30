@@ -1,0 +1,11 @@
+{
+    "name": "hash",
+    "aliases": [],
+    "help": "Hash a string with a given algorithm",
+    "syntax": "hash [algorithm] [text]",
+    "example": "hash sha256 we love vole",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["algorithm", "text"]
+  }

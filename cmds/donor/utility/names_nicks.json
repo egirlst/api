@@ -1,0 +1,12 @@
+{
+    "name": "nicks",
+    "group": "names",
+    "aliases": [],
+    "help": "view nickname history",
+    "syntax": "names nicks (user",
+    "example": "names nicks saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

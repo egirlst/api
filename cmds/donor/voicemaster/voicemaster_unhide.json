@@ -1,0 +1,12 @@
+{
+    "name": "unhide",
+    "group": "voicemaster",
+    "aliases": ["reveal"],
+    "help": "unhide vc",
+    "syntax": "voicemaster unhide",
+    "example": "voicemaster unhide",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

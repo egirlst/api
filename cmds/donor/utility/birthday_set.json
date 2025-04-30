@@ -1,0 +1,12 @@
+{
+    "name": "set",
+    "group": "birthday",
+    "aliases": [],
+    "help": "set your birthday",
+    "syntax": "birthday set [date]",
+    "example": "birthday set 9 feb",
+    "cooldown": "10",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["date"]
+  }

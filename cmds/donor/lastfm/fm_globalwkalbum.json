@@ -1,0 +1,12 @@
+{
+    "name": "globalwhoknows",
+    "group": "fm",
+    "aliases": ["gwk"],
+    "help": "see who knows an artist globally",
+    "syntax": "fm globalwhoknows (artist)",
+    "example": "fm globalwhoknows Frank Ocean",
+    "cooldown": "10",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["artist"]
+  }

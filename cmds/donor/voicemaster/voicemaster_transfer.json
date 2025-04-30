@@ -1,0 +1,12 @@
+{
+    "name": "transfer",
+    "group": "voicemaster",
+    "aliases": [],
+    "help": "transfer vc ownership",
+    "syntax": "voicemaster transfer [user]",
+    "example": "voicemaster transfer @vole",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

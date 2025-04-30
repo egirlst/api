@@ -1,0 +1,12 @@
+{
+    "name": "mute",
+    "group": "voicemaster",
+    "aliases": [],
+    "help": "Server mute a user in your current voice channel",
+    "syntax": "voicemaster mute [user]",
+    "example": "voicemaster mute @vole",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

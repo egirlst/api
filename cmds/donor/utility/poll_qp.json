@@ -1,0 +1,12 @@
+{
+    "name": "quickpoll",
+    "group": "poll",
+    "aliases": ["qpoll"],
+    "help": "create a simple yes/no poll",
+    "syntax": "quickpoll [question]",
+    "example": "quickpoll am i sexy?",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["question"]
+  }

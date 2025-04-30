@@ -1,0 +1,11 @@
+{
+    "name": "remind",
+    "aliases": ["reminder", "reminders"],
+    "help": "add reminders etc",
+    "syntax": "remind [time] [message]",
+    "example": "remind 1h eat vole out",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["time", "message"]
+  }

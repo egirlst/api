@@ -1,0 +1,12 @@
+{
+    "name": "privacy",
+    "group": "ah",
+    "aliases": [],
+    "help": "toggle avatar history privacy",
+    "syntax": "ah privacy",
+    "example": "ah privacy",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "esex",
+    "group": "voicemaster",
+    "aliases": [],
+    "help": "Create a private session with another user",
+    "syntax": "voicemaster esex [user]",
+    "example": "voicemaster esex @vole",
+    "cooldown": "30",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

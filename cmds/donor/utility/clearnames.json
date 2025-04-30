@@ -1,0 +1,11 @@
+{
+    "name": "clearnames",
+    "aliases": ["cn"],
+    "help": "Clear all name data for the user",
+    "syntax": "clearnames",
+    "example": "clearnames",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

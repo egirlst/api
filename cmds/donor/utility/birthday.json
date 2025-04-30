@@ -1,0 +1,11 @@
+{
+    "name": "birthday",
+    "aliases": ["bday"],
+    "help": "see birthdays",
+    "syntax": "birthday (user)",
+    "example": "birthday @user",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

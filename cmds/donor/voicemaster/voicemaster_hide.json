@@ -1,0 +1,12 @@
+{
+    "name": "hide",
+    "group": "voicemaster",
+    "aliases": ["ghost", "private"],
+    "help": "hide vc",
+    "syntax": "voicemaster hide",
+    "example": "voicemaster hide",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "logging",
+    "aliases": [],
+    "help": "Main logging command group",
+    "syntax": "logging [subcommand]",
+    "example": "logging setup",
+    "cooldown": "0",
+    "permissions": "",
+    "donor": false,
+    "parameters": []
+  }
+  

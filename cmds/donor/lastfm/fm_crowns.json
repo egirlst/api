@@ -1,0 +1,12 @@
+{
+    "name": "crowns",
+    "group": "fm",
+    "aliases": ["cw"],
+    "help": "view your artist crowns",
+    "syntax": "fm crowns (user)",
+    "example": "fm crowns saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

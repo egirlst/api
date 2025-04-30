@@ -1,0 +1,12 @@
+{
+    "name": "allow",
+    "group": "voicemaster",
+    "aliases": ["permit"],
+    "help": "allow person to join",
+    "syntax": "voicemaster allow [user]",
+    "example": "voicemaster allow @user",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

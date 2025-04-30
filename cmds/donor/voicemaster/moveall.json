@@ -1,0 +1,11 @@
+{
+    "name": "moveall",
+    "aliases": ["dragall"],
+    "help": "move all users to the specified channel",
+    "syntax": "moveall [old_channel] [new_channel]",
+    "example": "moveall #oldchannel #newchannel",
+    "cooldown": "7",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["old_channel", "new_channel"]
+  }

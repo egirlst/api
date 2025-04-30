@@ -1,0 +1,12 @@
+{
+    "name": "activity",
+    "group": "voicemaster",
+    "aliases": ["game"],
+    "help": "start a vc activity",
+    "syntax": "voicemaster activity",
+    "example": "voicemaster activity",
+    "cooldown": "19",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

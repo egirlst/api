@@ -1,0 +1,11 @@
+{
+    "name": "fm",
+    "aliases": ["lastfm", "np", "nowplaying"],
+    "help": "display currently playing track",
+    "syntax": "fm (user)",
+    "example": "fm vole",
+    "cooldown": "3",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

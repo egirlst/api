@@ -1,0 +1,12 @@
+{
+    "name": "reset",
+    "group": "voicemaster",
+    "aliases": [],
+    "help": "Reset voicemaster system",
+    "syntax": "voicemaster reset",
+    "example": "voicemaster reset",
+    "cooldown": "60",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }

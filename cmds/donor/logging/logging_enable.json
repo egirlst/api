@@ -1,0 +1,13 @@
+{
+    "name": "enable",
+    "group": "logging",
+    "aliases": [],
+    "help": "Enable message or mod logging",
+    "syntax": "logging enable [message/mod]",
+    "example": "logging enable message",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["log_type"]
+  }
+  

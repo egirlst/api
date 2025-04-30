@@ -1,0 +1,12 @@
+{
+    "name": "topalbums",
+    "group": "fm",
+    "aliases": ["albums", "talb"],
+    "help": "view your top albums",
+    "syntax": "fm topalbums (period) (user)",
+    "example": "fm topalbums 1m saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["period", "user"]
+  }

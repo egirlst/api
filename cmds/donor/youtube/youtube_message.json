@@ -1,0 +1,12 @@
+{
+    "name": "message",
+    "group": "youtube",
+    "aliases": [],
+    "help": "set notification message",
+    "syntax": "youtube message [message]",
+    "example": "youtube message New video from {channel}!",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["message"]
+  }

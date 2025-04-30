@@ -1,0 +1,12 @@
+{
+    "name": "decrease",
+    "group": "voicemaster",
+    "aliases": [],
+    "help": "Decrease the user limit of your voice channel",
+    "syntax": "voicemaster decrease [amount]",
+    "example": "voicemaster decrease 2",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["amount"]
+  }

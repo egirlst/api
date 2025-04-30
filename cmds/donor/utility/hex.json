@@ -1,0 +1,11 @@
+{
+    "name": "hex",
+    "aliases": ["color"],
+    "help": "get main color of image",
+    "syntax": "hex (url)",
+    "example": "hex https://img.saint.bot/logo.png",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["url"]
+  }

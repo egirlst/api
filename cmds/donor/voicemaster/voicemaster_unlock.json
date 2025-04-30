@@ -1,0 +1,12 @@
+{
+    "name": "unlock",
+    "group": "voicemaster",
+    "aliases": [],
+    "help": "unlock vc to allow joining",
+    "syntax": "voicemaster unlock",
+    "example": "voicemaster unlock",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

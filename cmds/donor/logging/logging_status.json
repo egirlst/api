@@ -1,0 +1,13 @@
+{
+    "name": "status",
+    "group": "logging",
+    "aliases": [],
+    "help": "Check logging status",
+    "syntax": "logging status",
+    "example": "logging status",
+    "cooldown": "5",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }
+  

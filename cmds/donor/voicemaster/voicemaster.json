@@ -1,0 +1,11 @@
+{
+    "name": "voicemaster",
+    "aliases": ["vm", "vc", "voicechat"],
+    "help": "manage voice channels",
+    "syntax": "voicemaster",
+    "example": "voicemaster",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

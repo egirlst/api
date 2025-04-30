@@ -1,0 +1,11 @@
+{
+    "name": "img",
+    "aliases": ["image", "i"],
+    "help": "search for images",
+    "syntax": "img [query]",
+    "example": "img gun park",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["query"]
+  }

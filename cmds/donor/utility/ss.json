@@ -1,0 +1,11 @@
+{
+    "name": "screenshot",
+    "aliases": ["ss"],
+    "help": "Capture a screenshot of a webpage",
+    "syntax": "screenshot [url] (full_page)",
+    "example": "ss saint.bot",
+    "cooldown": "3",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["url", "full_page"]
+  }

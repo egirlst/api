@@ -1,0 +1,12 @@
+{
+    "name": "playing",
+    "group": "fm",
+    "aliases": ["server", "lp"],
+    "help": "see who's playing music in the server",
+    "syntax": "fm playing",
+    "example": "fm playing",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "topartists",
+    "group": "fm",
+    "aliases": ["artists", "ta"],
+    "help": "view your top artists",
+    "syntax": "fm topartists (period) (user)",
+    "example": "fm topartists overall saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["period", "user"]
+  }

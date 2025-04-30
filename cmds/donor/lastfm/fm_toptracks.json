@@ -1,0 +1,12 @@
+{
+    "name": "toptracks",
+    "group": "fm",
+    "aliases": ["tracks", "tt"],
+    "help": "view your top tracks",
+    "syntax": "fm toptracks (period) (user)",
+    "example": "fm toptracks 7d saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["period", "user"]
+  }

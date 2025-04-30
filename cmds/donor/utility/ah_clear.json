@@ -1,0 +1,12 @@
+{
+    "name": "clear",
+    "group": "ah",
+    "aliases": [],
+    "help": "delete your avatar history",
+    "syntax": "ah clear",
+    "example": "ah clear",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

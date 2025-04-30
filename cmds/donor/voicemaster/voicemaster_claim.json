@@ -1,0 +1,12 @@
+{
+    "name": "claim",
+    "group": "voicemaster",
+    "aliases": [],
+    "help": "claim ownership of an empty vc",
+    "syntax": "voicemaster claim",
+    "example": "voicemaster claim",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

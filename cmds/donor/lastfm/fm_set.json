@@ -1,0 +1,12 @@
+{
+    "name": "set",
+    "group": "fm",
+    "aliases": ["connect", "link", "save"],
+    "help": "connect your LastFM username",
+    "syntax": "fm set [username]",
+    "example": "fm set saintbot",
+    "cooldown": "20",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["username"]
+  }

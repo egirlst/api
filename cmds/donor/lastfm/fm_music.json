@@ -1,0 +1,12 @@
+{
+    "name": "music",
+    "group": "fm",
+    "aliases": [],
+    "help": "get music streaming links",
+    "syntax": "fm music (service) (user)",
+    "example": "fm music spotify",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["service", "user"]
+  }

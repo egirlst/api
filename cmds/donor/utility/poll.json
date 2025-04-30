@@ -1,0 +1,11 @@
+{
+    "name": "poll",
+    "aliases": [],
+    "help": "create and manage polls",
+    "syntax": "poll [time] [question], [choice1], [choice2], ...",
+    "example": "poll 1h is vole cute?",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["time", "question", "choices"]
+  }

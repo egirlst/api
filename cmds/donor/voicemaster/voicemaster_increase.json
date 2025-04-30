@@ -1,0 +1,12 @@
+{
+    "name": "limit",
+    "group": "voicemaster",
+    "aliases": [],
+    "help": "Set the user limit for your voice channel (max 99)",
+    "syntax": "voicemaster limit [limit]",
+    "example": "voicemaster limit 5",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["limit"]
+  }

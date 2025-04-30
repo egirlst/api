@@ -1,0 +1,12 @@
+{
+    "name": "variables",
+    "group": "fm",
+    "aliases": ["vars", "formathelp"],
+    "help": "view available formatting variables",
+    "syntax": "fm variables",
+    "example": "fm variables",
+    "cooldown": "10",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

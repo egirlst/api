@@ -1,0 +1,13 @@
+{
+    "name": "fix",
+    "group": "logging",
+    "aliases": [],
+    "help": "Fix logging if channel is missing",
+    "syntax": "logging fix",
+    "example": "logging fix",
+    "cooldown": "5",
+    "permissions": "manage_guild, manage_channels",
+    "donor": false,
+    "parameters": []
+  }
+  

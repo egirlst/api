@@ -1,0 +1,13 @@
+{
+    "name": "channel",
+    "group": "logging",
+    "aliases": [],
+    "help": "Change the logging channel",
+    "syntax": "logging channel [channel]",
+    "example": "logging channel #logs",
+    "cooldown": "5",
+    "permissions": "manage_guild, manage_channels",
+    "donor": false,
+    "parameters": ["channel"]
+  }
+  

@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "remind",
+    "aliases": ["delete", "rm", "del"],
+    "help": "remove a reminder by ID",
+    "syntax": "remind remove [reminder_id]",
+    "example": "remind remove 123",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["reminder_id"]
+  }

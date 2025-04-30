@@ -1,0 +1,12 @@
+{
+    "name": "cancel",
+    "group": "poll",
+    "aliases": [],
+    "help": "cancel a poll without results",
+    "syntax": "poll cancel [message_id]",
+    "example": "poll cancel 123456789012345678",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["message_id"]
+  }

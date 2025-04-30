@@ -1,0 +1,12 @@
+{
+    "name": "reset",
+    "group": "fm",
+    "aliases": [],
+    "help": "reset all customizations",
+    "syntax": "fm reset",
+    "example": "fm reset",
+    "cooldown": "10",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

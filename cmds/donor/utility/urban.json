@@ -1,0 +1,11 @@
+{
+    "name": "urban",
+    "aliases": ["ud", "dictionary", "define"],
+    "help": "Define a word from Urban Dictionary",
+    "syntax": "urban [word]",
+    "example": "urban dumbass (vole)",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["word"]
+  }

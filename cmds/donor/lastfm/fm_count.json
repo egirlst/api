@@ -1,0 +1,12 @@
+{
+    "name": "count",
+    "group": "fm",
+    "aliases": [],
+    "help": "view play counts for your top tracks and albums",
+    "syntax": "fm count (user)",
+    "example": "fm count saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

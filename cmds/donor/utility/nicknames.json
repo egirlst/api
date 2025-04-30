@@ -1,0 +1,11 @@
+{
+    "name": "nicknames",
+    "aliases": ["nicks"],
+    "help": "view nickname history",
+    "syntax": "nicknames (user",
+    "example": "nicknames saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

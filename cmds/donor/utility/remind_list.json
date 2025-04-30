@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "remind",
+    "aliases": [],
+    "help": "list your reminders",
+    "syntax": "remind list",
+    "example": "remind list",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

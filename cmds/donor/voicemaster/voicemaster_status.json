@@ -1,0 +1,12 @@
+{
+    "name": "status",
+    "group": "voicemaster",
+    "aliases": [],
+    "help": "set vc status",
+    "syntax": "voicemaster status [status]",
+    "example": "voicemaster status touching vole",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["status"]
+  }

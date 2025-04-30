@@ -1,0 +1,12 @@
+{
+    "name": "globalwktrack",
+    "group": "fm",
+    "aliases": ["gwkt", "gwktrack"],
+    "help": "see who knows a track globally",
+    "syntax": "fm globalwktrack (track)",
+    "example": "fm globalwktrack Nights",
+    "cooldown": "10",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["track"]
+  }

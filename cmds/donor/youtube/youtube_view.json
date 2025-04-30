@@ -1,0 +1,12 @@
+{
+    "name": "view",
+    "group": "youtube",
+    "aliases": [],
+    "help": "view channel settings",
+    "syntax": "youtube view [channel]",
+    "example": "youtube view pewdiepie",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["channel"]
+  }

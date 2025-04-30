@@ -1,0 +1,12 @@
+{
+    "name": "lock",
+    "group": "voicemaster",
+    "aliases": [],
+    "help": "lock vc to prevent joining",
+    "syntax": "voicemaster lock",
+    "example": "voicemaster lock",
+    "cooldown": "9",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

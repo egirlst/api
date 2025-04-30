@@ -1,0 +1,11 @@
+{
+    "name": "g",
+    "aliases": ["search", "google"],
+    "help": "search the web",
+    "syntax": "g [query]",
+    "example": "g cute cats",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["query"]
+  }

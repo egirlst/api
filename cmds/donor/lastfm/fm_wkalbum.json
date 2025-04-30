@@ -1,0 +1,12 @@
+{
+    "name": "whoknows",
+    "group": "fm",
+    "aliases": ["wk"],
+    "help": "see who knows an artist in the server",
+    "syntax": "fm whoknows (artist)",
+    "example": "fm whoknows Frank Ocean",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["artist"]
+  }

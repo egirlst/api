@@ -1,0 +1,11 @@
+{
+    "name": "drag",
+    "aliases": ["move", "d"],
+    "help": "move a users to the specified channel",
+    "syntax": "drag [user] [channel]",
+    "example": "drag @vole #esex",
+    "cooldown": "7",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["user", "channel"]
+  }

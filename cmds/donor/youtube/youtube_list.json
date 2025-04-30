@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "youtube",
+    "aliases": [],
+    "help": "list tracked channels",
+    "syntax": "youtube list",
+    "example": "youtube list",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

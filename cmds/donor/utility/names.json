@@ -1,0 +1,11 @@
+{
+    "name": "names",
+    "aliases": ["nh"],
+    "help": "view and manage name history",
+    "syntax": "names (user)",
+    "example": "names",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

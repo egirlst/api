@@ -1,0 +1,12 @@
+{
+    "name": "color",
+    "group": "fm",
+    "aliases": ["colour"],
+    "help": "set custom embed color",
+    "syntax": "fm color [hex_color]",
+    "example": "fm color #FF5733",
+    "cooldown": "10",
+    "permissions": "None",
+    "donor": true,
+    "parameters": ["hex_color"]
+  }

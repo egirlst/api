@@ -1,0 +1,12 @@
+{
+    "name": "whois",
+    "group": "fm",
+    "aliases": ["profile", "userinfo"],
+    "help": "view lastfm user profile",
+    "syntax": "fm whois (user)",
+    "example": "fm whois saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

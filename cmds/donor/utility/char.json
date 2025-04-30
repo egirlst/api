@@ -1,0 +1,11 @@
+{
+    "name": "charinfo",
+    "aliases": ["char"],
+    "help": "View unicode characters",
+    "syntax": "charinfo [characters]",
+    "example": "charinfo ♥★☆",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["characters"]
+  }

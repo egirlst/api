@@ -1,0 +1,12 @@
+{
+    "name": "recommendation",
+    "group": "fm",
+    "aliases": ["recommend", "rec"],
+    "help": "get an artist recommendation",
+    "syntax": "fm recommendation (user)",
+    "example": "fm recommendation saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

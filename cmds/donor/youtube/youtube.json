@@ -1,0 +1,11 @@
+{
+    "name": "youtube",
+    "aliases": ["yt"],
+    "help": "youtube integration",
+    "syntax": "youtube",
+    "example": "youtube",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

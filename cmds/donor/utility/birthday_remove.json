@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "birthday",
+    "aliases": ["delete"],
+    "help": "remove your birthday",
+    "syntax": "birthday remove",
+    "example": "birthday remove",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

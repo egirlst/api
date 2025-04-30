@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "youtube",
+    "aliases": [],
+    "help": "remove youtube channel",
+    "syntax": "youtube remove [channel]",
+    "example": "youtube remove pewdiepie",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["channel"]
+  }
