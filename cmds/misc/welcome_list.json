@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "welcome",
+    "aliases": ["msgs", "all"],
+    "help": "see welcome list",
+    "syntax": "welcome list",
+    "example": "welcome list",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }

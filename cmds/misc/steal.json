@@ -1,0 +1,11 @@
+{
+    "name": "steal",
+    "aliases": [],
+    "help": "steal emojis from messages",
+    "syntax": "steal (emojis)",
+    "example": "steal",
+    "cooldown": "5",
+    "permissions": "manage_emojis",
+    "donor": false,
+    "parameters": ["emojis"]
+  }

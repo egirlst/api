@@ -1,0 +1,11 @@
+{
+    "name": "reacsnipe",
+    "aliases": ["rs", "reactionsnipe"],
+    "help": "Retrieve the latest reaction added to a message",
+    "syntax": "reacsnipe (num)",
+    "example": "reacsnipe 1",
+    "cooldown": "3",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["num"]
+  }

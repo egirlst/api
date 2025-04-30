@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "stickymessage",
+    "aliases": ["del"],
+    "help": "Remove sticky message from a channel",
+    "syntax": "stickymessage remove (target)",
+    "example": "stickymessage remove #general",
+    "cooldown": "4",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": ["target"]
+  }

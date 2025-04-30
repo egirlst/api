@@ -1,0 +1,12 @@
+{
+    "name": "name",
+    "group": "set",
+    "aliases": ["rename"],
+    "help": "change server name",
+    "syntax": "set name [name]",
+    "example": "set name saint",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["name"]
+  }

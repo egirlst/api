@@ -1,0 +1,12 @@
+{
+    "name": "unlock",
+    "group": "thread",
+    "aliases": [],
+    "help": "unlock a thread",
+    "syntax": "thread unlock (thread_id)",
+    "example": "thread unlock 123456789",
+    "cooldown": "5",
+    "permissions": "manage_threads",
+    "donor": false,
+    "parameters": ["thread_id"]
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "welcome",
+    "aliases": ["welc"],
+    "help": "manage welcome messages",
+    "syntax": "welcome",
+    "example": "welcome",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

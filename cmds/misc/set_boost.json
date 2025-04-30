@@ -1,0 +1,12 @@
+{
+    "name": "boost",
+    "group": "set",
+    "aliases": ["boosts"],
+    "help": "toggle boost messages",
+    "syntax": "set boost",
+    "example": "set boost",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }

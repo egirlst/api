@@ -1,0 +1,11 @@
+{
+    "name": "set",
+    "aliases": [],
+    "help": "Set server information",
+    "syntax": "set",
+    "example": "set",
+    "cooldown": "8",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

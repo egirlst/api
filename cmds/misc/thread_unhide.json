@@ -1,0 +1,12 @@
+{
+    "name": "unhide",
+    "group": "thread",
+    "aliases": ["unarchive"],
+    "help": "unhide/unarchive a thread",
+    "syntax": "thread unhide (thread_id)",
+    "example": "thread unhide 123456789",
+    "cooldown": "5",
+    "permissions": "manage_threads",
+    "donor": false,
+    "parameters": ["thread_id"]
+  }

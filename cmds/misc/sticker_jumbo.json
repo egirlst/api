@@ -1,0 +1,12 @@
+{
+    "name": "jumbo",
+    "group": "sticker",
+    "aliases": [],
+    "help": "enlarge a sticker",
+    "syntax": "sticker jumbo (sticker)",
+    "example": "sticker jumbo saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["sticker"]
+  }

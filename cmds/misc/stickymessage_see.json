@@ -1,0 +1,12 @@
+{
+    "name": "see",
+    "group": "stickymessage",
+    "aliases": [],
+    "help": "View a sticky message in a channel",
+    "syntax": "stickymessage see (target)",
+    "example": "stickymessage see #general",
+    "cooldown": "4",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": ["target"]
+  }

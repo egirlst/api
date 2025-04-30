@@ -1,0 +1,12 @@
+{
+    "name": "rename",
+    "group": "sticker",
+    "aliases": [],
+    "help": "rename a sticker",
+    "syntax": "sticker rename [sticker] [new_name]",
+    "example": "sticker rename saint vole",
+    "cooldown": "5",
+    "permissions": "manage_emojis",
+    "donor": false,
+    "parameters": ["sticker", "new_name"]
+  }

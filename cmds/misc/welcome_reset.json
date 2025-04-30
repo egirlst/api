@@ -1,0 +1,12 @@
+{
+    "name": "reset",
+    "group": "welcome",
+    "aliases": ["clear", "wipe"],
+    "help": "delete all welcome messages",
+    "syntax": "welcome reset",
+    "example": "welcome reset",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }

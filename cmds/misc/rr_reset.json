@@ -1,0 +1,12 @@
+{
+    "name": "reset",
+    "group": "reaction",
+    "aliases": ["restart", "bitethedust"],
+    "help": "clear all reactions",
+    "syntax": "reaction reset",
+    "example": "reaction reset",
+    "cooldown": "60",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }

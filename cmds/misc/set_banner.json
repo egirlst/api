@@ -1,0 +1,12 @@
+{
+    "name": "banner",
+    "group": "set",
+    "aliases": [],
+    "help": "set the server banner",
+    "syntax": "set banner (url)",
+    "example": "set banner https://img.saint.bot/logo.png",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["url"]
+  }

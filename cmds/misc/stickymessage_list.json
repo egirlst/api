@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "stickymessage",
+    "aliases": [],
+    "help": "List sticky messages in the server",
+    "syntax": "stickymessage list",
+    "example": "stickymessage list",
+    "cooldown": "4",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": []
+  }

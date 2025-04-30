@@ -1,0 +1,12 @@
+{
+    "name": "reset",
+    "group": "webhook",
+    "aliases": [],
+    "help": "delete all webhooks (admin only)",
+    "syntax": "webhook reset",
+    "example": "webhook reset",
+    "cooldown": "30",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }

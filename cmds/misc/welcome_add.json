@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "welcome",
+    "aliases": ["msg", "message"],
+    "help": "setup welcome message",
+    "syntax": "welcome add (channel) [content]",
+    "example": "welcome add #general Welcome {user.mention} to the server!",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["channel", "content"]
+  }

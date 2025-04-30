@@ -1,0 +1,12 @@
+{
+    "name": "view",
+    "group": "welcome",
+    "aliases": ["show", "preview", "see"],
+    "help": "view welcome messages",
+    "syntax": "welcome view [target]",
+    "example": "welcome view #general",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["target"]
+  }

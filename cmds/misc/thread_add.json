@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "thread",
+    "aliases": ["create"],
+    "help": "create a new thread",
+    "syntax": "thread add [name]",
+    "example": "thread add Discussion Topic",
+    "cooldown": "5",
+    "permissions": "manage_threads",
+    "donor": false,
+    "parameters": ["name"]
+  }

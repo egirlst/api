@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "webhook",
+    "aliases": [],
+    "help": "add a webhook",
+    "syntax": "webhook add (channel) (name) (avatar_url)",
+    "example": "webhook add #general saint https://img.saint.bot/logo.png",
+    "cooldown": "10",
+    "permissions": "manage_webhooks",
+    "donor": false,
+    "parameters": ["channel", "name", "avatar_url"]
+  }

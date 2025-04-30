@@ -1,0 +1,12 @@
+{
+    "name": "icon",
+    "group": "set",
+    "aliases": ["image"],
+    "help": "set the server icon",
+    "syntax": "set icon (url)",
+    "example": "set icon https://img.saint.bot/logo.png",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["url"]
+  }

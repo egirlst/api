@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "sticker",
+    "aliases": [],
+    "help": "add a sticker to the server",
+    "syntax": "sticker add (image) (name)",
+    "example": "sticker add https://img.saint.bot/logo.png saint",
+    "cooldown": "5",
+    "permissions": "manage_emojis",
+    "donor": false,
+    "parameters": ["image", "name"]
+  }

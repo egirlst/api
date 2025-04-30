@@ -1,0 +1,12 @@
+{
+    "name": "steal",
+    "group": "sticker",
+    "aliases": [],
+    "help": "steal a sticker",
+    "syntax": "sticker steal (message_id_or_link)",
+    "example": "sticker steal 1234567890123456",
+    "cooldown": "5",
+    "permissions": "manage_emojis",
+    "donor": false,
+    "parameters": ["message_id_or_link"]
+  }

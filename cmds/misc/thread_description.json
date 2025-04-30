@@ -1,0 +1,12 @@
+{
+    "name": "description",
+    "group": "thread",
+    "aliases": ["desc"],
+    "help": "change a thread's description",
+    "syntax": "thread description (thread_id) [description]",
+    "example": "thread description 123456789 This is a thread for discussing the new update",
+    "cooldown": "5",
+    "permissions": "manage_threads",
+    "donor": false,
+    "parameters": ["thread_id", "description"]
+  }

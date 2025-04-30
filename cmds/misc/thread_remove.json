@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "thread",
+    "aliases": ["delete"],
+    "help": "delete a thread",
+    "syntax": "thread remove (thread_id)",
+    "example": "thread remove 123456789",
+    "cooldown": "5",
+    "permissions": "manage_threads",
+    "donor": false,
+    "parameters": ["thread_id"]
+  }

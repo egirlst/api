@@ -1,0 +1,12 @@
+{
+    "name": "splash",
+    "group": "set",
+    "aliases": [],
+    "help": "set the server splash",
+    "syntax": "set splash (url)",
+    "example": "set splash https://img.saint.bot/logo.png",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["url"]
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "send",
+    "group": "webhook",
+    "aliases": [],
+    "help": "send a message through webhook",
+    "syntax": "webhook send (webhook_id) [content]",
+    "example": "webhook send 123 Hello from webhook!",
+    "cooldown": "15",
+    "permissions": "manage_webhooks",
+    "donor": false,
+    "parameters": ["webhook_id", "content"]
+  }

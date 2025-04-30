@@ -1,0 +1,12 @@
+{
+    "name": "see",
+    "group": "webhook",
+    "aliases": ["reveal", "show"],
+    "help": "reveal webhook URL",
+    "syntax": "webhook see [webhook_id]",
+    "example": "webhook see 123",
+    "cooldown": "5",
+    "permissions": "manage_webhooks",
+    "donor": false,
+    "parameters": ["webhook_id"]
+  }

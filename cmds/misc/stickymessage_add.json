@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "stickymessage",
+    "aliases": [],
+    "help": "Add a sticky message to a channel",
+    "syntax": "stickymessage add (channel) [content]",
+    "example": "stickymessage add #rules Please read all rules before chatting!",
+    "cooldown": "4",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": ["channel", "content"]
+  }

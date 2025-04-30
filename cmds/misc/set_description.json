@@ -1,0 +1,12 @@
+{
+    "name": "description",
+    "group": "set",
+    "aliases": ["desc"],
+    "help": "change server description",
+    "syntax": "set description [description]",
+    "example": "set description best server",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["description"]
+  }

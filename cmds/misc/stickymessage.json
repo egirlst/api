@@ -1,0 +1,11 @@
+{
+    "name": "stickymessage",
+    "aliases": ["sticky", "stickymsg"],
+    "help": "manage sticky messages",
+    "syntax": "stickymessage",
+    "example": "stickymessage",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": []
+  }

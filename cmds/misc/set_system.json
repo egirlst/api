@@ -1,0 +1,12 @@
+{
+    "name": "system",
+    "group": "set",
+    "aliases": ["sys"],
+    "help": "set the system channel",
+    "syntax": "set system [channel]",
+    "example": "set system #welcome",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["channel"]
+  }

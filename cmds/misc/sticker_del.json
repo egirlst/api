@@ -1,0 +1,12 @@
+{
+    "name": "del",
+    "group": "sticker",
+    "aliases": ["delete", "remove"],
+    "help": "delete a sticker",
+    "syntax": "sticker del [sticker]",
+    "example": "sticker del saint",
+    "cooldown": "5",
+    "permissions": "manage_emojis",
+    "donor": false,
+    "parameters": ["sticker"]
+  }

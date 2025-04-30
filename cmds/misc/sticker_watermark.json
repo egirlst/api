@@ -1,0 +1,12 @@
+{
+    "name": "watermark",
+    "group": "sticker",
+    "aliases": [],
+    "help": "watermark all stickers with server vanity",
+    "syntax": "sticker watermark",
+    "example": "sticker watermark",
+    "cooldown": "5",
+    "permissions": "manage_emojis",
+    "donor": false,
+    "parameters": []
+  }

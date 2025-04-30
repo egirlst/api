@@ -1,0 +1,12 @@
+{
+    "name": "name",
+    "group": "thread",
+    "aliases": [],
+    "help": "rename a thread",
+    "syntax": "thread name (thread_id) [name]",
+    "example": "thread name 123456789 New Topic Name",
+    "cooldown": "5",
+    "permissions": "manage_threads",
+    "donor": false,
+    "parameters": ["thread_id", "name"]
+  }

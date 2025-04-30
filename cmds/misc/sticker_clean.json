@@ -1,0 +1,12 @@
+{
+    "name": "clean",
+    "group": "sticker",
+    "aliases": [],
+    "help": "remove watermarks from sticker names",
+    "syntax": "sticker clean",
+    "example": "sticker clean",
+    "cooldown": "5",
+    "permissions": "manage_emojis",
+    "donor": false,
+    "parameters": []
+  }

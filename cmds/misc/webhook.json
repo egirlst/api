@@ -1,0 +1,11 @@
+{
+    "name": "webhook",
+    "aliases": ["webhooks", "wh"],
+    "help": "manage webhooks",
+    "syntax": "webhook",
+    "example": "webhook",
+    "cooldown": "10",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

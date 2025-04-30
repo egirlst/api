@@ -1,0 +1,12 @@
+{
+    "name": "role",
+    "group": "thread",
+    "aliases": [],
+    "help": "add or remove a role from a thread",
+    "syntax": "thread role [action] [thread_id] [role]",
+    "example": "thread role add 123456789 @Member",
+    "cooldown": "5",
+    "permissions": "manage_threads",
+    "donor": false,
+    "parameters": ["action", "thread_id", "role"]
+  }

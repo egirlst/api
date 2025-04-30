@@ -1,0 +1,11 @@
+{
+    "name": "thread",
+    "aliases": ["threads"],
+    "help": "manage threads",
+    "syntax": "thread",
+    "example": "thread",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

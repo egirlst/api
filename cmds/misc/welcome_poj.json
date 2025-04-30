@@ -1,0 +1,12 @@
+{
+    "name": "poj",
+    "group": "welcome",
+    "aliases": ["quick"],
+    "help": "quickly add welcome message",
+    "syntax": "welcome poj [channel]",
+    "example": "welcome poj #welcome",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["channel"]
+  }

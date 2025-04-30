@@ -1,0 +1,12 @@
+{
+    "name": "welcome",
+    "group": "set",
+    "aliases": ["welc"],
+    "help": "toggle welcome messages",
+    "syntax": "set welcome",
+    "example": "set welcome",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }

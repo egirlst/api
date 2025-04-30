@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "webhook",
+    "aliases": [],
+    "help": "list webhooks",
+    "syntax": "webhook list",
+    "example": "webhook list",
+    "cooldown": "5",
+    "permissions": "manage_webhooks",
+    "donor": false,
+    "parameters": []
+  }

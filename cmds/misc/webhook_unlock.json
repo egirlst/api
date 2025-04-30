@@ -1,0 +1,12 @@
+{
+    "name": "unlock",
+    "group": "webhook",
+    "aliases": [],
+    "help": "unlock a webhook",
+    "syntax": "webhook unlock [webhook_id]",
+    "example": "webhook unlock 123",
+    "cooldown": "5",
+    "permissions": "manage_webhooks",
+    "donor": false,
+    "parameters": ["webhook_id"]
+  }

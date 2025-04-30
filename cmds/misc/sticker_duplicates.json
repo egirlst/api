@@ -1,0 +1,12 @@
+{
+    "name": "duplicates",
+    "group": "sticker",
+    "aliases": ["dupes"],
+    "help": "find and remove duplicate stickers",
+    "syntax": "sticker duplicates",
+    "example": "sticker duplicates",
+    "cooldown": "5",
+    "permissions": "manage_emojis",
+    "donor": false,
+    "parameters": []
+  }

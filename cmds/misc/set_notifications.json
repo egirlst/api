@@ -1,0 +1,12 @@
+{
+    "name": "notifications",
+    "group": "set",
+    "aliases": ["notis", "noti"],
+    "help": "change notification settings",
+    "syntax": "set notifications [option]",
+    "example": "set notifications mentions",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["option"]
+  }

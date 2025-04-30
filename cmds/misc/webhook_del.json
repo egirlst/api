@@ -1,0 +1,12 @@
+{
+    "name": "del",
+    "group": "webhook",
+    "aliases": ["delete", "remove"],
+    "help": "delete a webhook",
+    "syntax": "webhook del (webhook_id)",
+    "example": "webhook del 123",
+    "cooldown": "5",
+    "permissions": "manage_webhooks",
+    "donor": false,
+    "parameters": ["webhook_id"]
+  }

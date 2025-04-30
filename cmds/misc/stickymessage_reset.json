@@ -1,0 +1,12 @@
+{
+    "name": "reset",
+    "group": "stickymessage",
+    "aliases": [],
+    "help": "Remove all sticky messages in the server",
+    "syntax": "stickymessage reset",
+    "example": "stickymessage reset",
+    "cooldown": "4",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }

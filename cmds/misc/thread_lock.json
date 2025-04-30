@@ -1,0 +1,12 @@
+{
+    "name": "lock",
+    "group": "thread",
+    "aliases": [],
+    "help": "lock a thread",
+    "syntax": "thread lock (thread_id)",
+    "example": "thread lock 123456789",
+    "cooldown": "5",
+    "permissions": "manage_threads",
+    "donor": false,
+    "parameters": ["thread_id"]
+  }

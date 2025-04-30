@@ -1,0 +1,12 @@
+{
+    "name": "sticker",
+    "group": "welcome",
+    "aliases": ["stickers"],
+    "help": "toggle welcome stickers",
+    "syntax": "set welcome sticker",
+    "example": "set welcome sticker",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }

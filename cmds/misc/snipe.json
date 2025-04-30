@@ -1,0 +1,11 @@
+{
+    "name": "snipe",
+    "aliases": ["s", "messagesnipe"],
+    "help": "Retrieve the latest deleted message",
+    "syntax": "snipe (num)",
+    "example": "snipe 3",
+    "cooldown": "3",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["num"]
+  }

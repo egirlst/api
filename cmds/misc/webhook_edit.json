@@ -1,0 +1,12 @@
+{
+    "name": "edit",
+    "group": "webhook",
+    "aliases": [],
+    "help": "edit webhook name/avatar",
+    "syntax": "webhook edit [webhook_id] [options]",
+    "example": "webhook edit 123 name:saint avatar:https://img.saint.bot/logo.png",
+    "cooldown": "5",
+    "permissions": "manage_webhooks",
+    "donor": false,
+    "parameters": ["webhook_id", "options"]
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "lock",
+    "group": "webhook",
+    "aliases": [],
+    "help": "lock a webhook",
+    "syntax": "webhook lock [webhook_id]",
+    "example": "webhook lock 123",
+    "cooldown": "5",
+    "permissions": "manage_webhooks",
+    "donor": false,
+    "parameters": ["webhook_id"]
+  }

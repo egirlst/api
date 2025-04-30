@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "welcome",
+    "aliases": ["del", "delete"],
+    "help": "delete welcome message",
+    "syntax": "welcome remove [target]",
+    "example": "welcome remove 123",
+    "cooldown": "25",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": ["target"]
+  }
