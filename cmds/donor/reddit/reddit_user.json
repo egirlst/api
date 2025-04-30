@@ -1,0 +1,12 @@
+{
+    "name": "user",
+    "group": "reddit",
+    "aliases": [],
+    "help": "view reddit user info",
+    "syntax": "reddit user [username]",
+    "example": "reddit user spez",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["username"]
+  }

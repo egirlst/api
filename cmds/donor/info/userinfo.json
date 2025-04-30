@@ -1,0 +1,11 @@
+{
+    "name": "userinfo",
+    "aliases": ["ui", "whois"],
+    "help": "Get detailed user information",
+    "syntax": "userinfo (user)",
+    "example": "userinfo saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

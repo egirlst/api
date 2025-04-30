@@ -1,0 +1,11 @@
+{
+    "name": "pin",
+    "aliases": [],
+    "help": "Pin a message",
+    "syntax": "pin (message_link_or_id)",
+    "example": "pin 1234567890123456",
+    "cooldown": "5",
+    "permissions": "manage_messages",
+    "donor": false,
+    "parameters": ["message_link_or_id"]
+  }

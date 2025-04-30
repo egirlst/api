@@ -1,0 +1,11 @@
+{
+    "name": "suggest",
+    "aliases": [],
+    "help": "Suggest a change to a command",
+    "syntax": "suggest $[command_name] [suggestion]",
+    "example": "suggest $ping Add more details to the output",
+    "cooldown": "10",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["command_name", "suggestion"]
+  }

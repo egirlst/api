@@ -1,0 +1,11 @@
+{
+    "name": "status",
+    "aliases": ["shards", "stat"],
+    "help": "Display shard status",
+    "syntax": "status",
+    "example": "status",
+    "cooldown": "3",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

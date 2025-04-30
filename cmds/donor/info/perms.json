@@ -1,0 +1,11 @@
+{
+    "name": "perms",
+    "aliases": ["permissions"],
+    "help": "show user permissions",
+    "syntax": "perms (user)",
+    "example": "perms saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

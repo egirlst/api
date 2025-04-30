@@ -1,0 +1,11 @@
+{
+    "name": "emojis",
+    "aliases": ["emotes", "emos"],
+    "help": "View all server emojis.",
+    "syntax": "emojis",
+    "example": "emojis",
+    "cooldown": "6",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "retweet",
+    "group": "twitter",
+    "aliases": [],
+    "help": "track retweets from user",
+    "syntax": "twitter retweet [username]",
+    "example": "twitter retweet elonmusk",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["username"]
+  }

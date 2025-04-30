@@ -1,0 +1,12 @@
+{
+    "name": "color",
+    "group": "reddit",
+    "aliases": [],
+    "help": "set embed color for reddit posts",
+    "syntax": "reddit color [color]",
+    "example": "reddit color #FF5700",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["color"]
+  }

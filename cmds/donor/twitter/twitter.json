@@ -1,0 +1,11 @@
+{
+    "name": "twitter",
+    "aliases": ["x"],
+    "help": "twitter/x integration",
+    "syntax": "twitter",
+    "example": "twitter",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

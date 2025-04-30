@@ -1,0 +1,12 @@
+{
+    "name": "message",
+    "group": "pinterest",
+    "aliases": [],
+    "help": "set message for pins",
+    "syntax": "pinterest message [message]",
+    "example": "pinterest message New pin from {user}!",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["message"]
+  }

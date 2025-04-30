@@ -1,0 +1,11 @@
+{
+    "name": "avatar",
+    "aliases": ["av", "pfp"],
+    "help": "Shows a user's avatar",
+    "syntax": "avatar (user)",
+    "example": "avatar saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

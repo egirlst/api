@@ -1,0 +1,11 @@
+{
+    "name": "roleinfo",
+    "aliases": ["ri"],
+    "help": "Shows role information",
+    "syntax": "roleinfo (role)",
+    "example": "roleinfo Member",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["role"]
+  }

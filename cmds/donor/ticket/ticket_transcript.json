@@ -1,0 +1,12 @@
+{
+    "name": "transcript",
+    "group": "ticket",
+    "aliases": [],
+    "help": "generate a transcript",
+    "syntax": "ticket transcript",
+    "example": "ticket transcript",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "ticket",
+    "aliases": [],
+    "help": "remove a user from a ticket",
+    "syntax": "ticket remove [user]",
+    "example": "ticket remove saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "ticket",
+    "aliases": [],
+    "help": "add a user to a ticket",
+    "syntax": "ticket add [user]",
+    "example": "ticket add saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

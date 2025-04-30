@@ -1,0 +1,11 @@
+{
+    "name": "roles",
+    "aliases": ["rolelist"],
+    "help": "Show all server roles",
+    "syntax": "roles",
+    "example": "roles",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

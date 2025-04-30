@@ -1,0 +1,12 @@
+{
+    "name": "view",
+    "group": "instagram",
+    "aliases": [],
+    "help": "view account settings",
+    "syntax": "instagram view [username]",
+    "example": "instagram view zuck",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["username"]
+  }

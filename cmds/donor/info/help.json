@@ -1,0 +1,11 @@
+{
+    "name": "help",
+    "aliases": ["h"],
+    "help": "show available commands",
+    "syntax": "help (command_name)",
+    "example": "help ping",
+    "cooldown": "3",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["command_name"]
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "gbanner",
+    "aliases": ["guildbanner", "guildban"],
+    "help": "Shows server banner",
+    "syntax": "gbanner (server)",
+    "example": "gbanner",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["server"]
+  }

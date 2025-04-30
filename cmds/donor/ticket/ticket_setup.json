@@ -1,0 +1,12 @@
+{
+    "name": "setup",
+    "group": "ticket",
+    "aliases": [],
+    "help": "setup ticket system",
+    "syntax": "ticket setup (channel) (embed) (label) (category_id)",
+    "example": "ticket setup #tickets",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": ["channel", "embed", "label", "category_id"]
+  }

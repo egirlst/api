@@ -1,0 +1,11 @@
+{
+    "name": "uroles",
+    "aliases": ["userroles", "ur"],
+    "help": "View a user's roles",
+    "syntax": "uroles (user)",
+    "example": "uroles saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

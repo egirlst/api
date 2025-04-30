@@ -1,0 +1,11 @@
+{
+    "name": "pinterest",
+    "aliases": ["pint"],
+    "help": "pinterest integration",
+    "syntax": "pinterest",
+    "example": "pinterest",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

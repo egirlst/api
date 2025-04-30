@@ -1,0 +1,11 @@
+{
+    "name": "ping",
+    "aliases": ["latency"],
+    "help": "Checks the bot's latency",
+    "syntax": "ping",
+    "example": "ping",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

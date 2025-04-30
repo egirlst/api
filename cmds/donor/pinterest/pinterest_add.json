@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "pinterest",
+    "aliases": [],
+    "help": "add pinterest content",
+    "syntax": "pinterest add [content]",
+    "example": "pinterest add https://pin.it/example",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["content"]
+  }

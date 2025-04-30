@@ -1,0 +1,12 @@
+{
+    "name": "username",
+    "group": "fortnite",
+    "aliases": [],
+    "help": "view player statistics",
+    "syntax": "fortnite username [username]",
+    "example": "fortnite username Ninja",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["username"]
+  }

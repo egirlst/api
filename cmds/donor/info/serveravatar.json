@@ -1,0 +1,11 @@
+{
+    "name": "serveravatar",
+    "aliases": ["spfp", "savi", "sav"],
+    "help": "Shows a user's server avatar",
+    "syntax": "serveravatar (user)",
+    "example": "serveravatar saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

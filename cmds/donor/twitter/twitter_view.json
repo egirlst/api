@@ -1,0 +1,12 @@
+{
+    "name": "view",
+    "group": "twitter",
+    "aliases": [],
+    "help": "view account settings",
+    "syntax": "twitter view [username]",
+    "example": "twitter view elonmusk",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["username"]
+  }

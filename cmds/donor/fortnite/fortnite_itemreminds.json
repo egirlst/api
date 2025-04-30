@@ -1,0 +1,12 @@
+{
+    "name": "itemreminds",
+    "group": "fortnite",
+    "aliases": [],
+    "help": "set reminders for item shop",
+    "syntax": "fortnite itemreminds",
+    "example": "fortnite itemreminds",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

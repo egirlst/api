@@ -1,0 +1,12 @@
+{
+    "name": "search",
+    "group": "pinterest",
+    "aliases": [],
+    "help": "search for pins",
+    "syntax": "pinterest search [query]",
+    "example": "pinterest search aesthetic",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["query"]
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "inrole",
+    "aliases": ["roleusers", "role-members"],
+    "help": "Shows all members with a specific role",
+    "syntax": "inrole [role]",
+    "example": "inrole Member",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["role"]
+  }

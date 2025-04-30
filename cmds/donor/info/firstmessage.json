@@ -1,0 +1,11 @@
+{
+    "name": "firstmessage",
+    "aliases": ["firstmsg", "first"],
+    "help": "View the first message sent in the channel.",
+    "syntax": "firstmessage",
+    "example": "firstmessage",
+    "cooldown": "3",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "banner",
+    "aliases": ["ub", "userbanner"],
+    "help": "Shows a user's banner",
+    "syntax": "banner (user)",
+    "example": "banner saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

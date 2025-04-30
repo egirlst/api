@@ -1,0 +1,11 @@
+{
+    "name": "splash",
+    "aliases": ["serversplash", "guildsplash", "gsplash"],
+    "help": "Shows server splash",
+    "syntax": "splash (server)",
+    "example": "splash",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["server"]
+  }

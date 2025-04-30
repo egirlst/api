@@ -1,0 +1,12 @@
+{
+    "name": "stories",
+    "group": "instagram",
+    "aliases": [],
+    "help": "track user stories",
+    "syntax": "instagram stories [username]",
+    "example": "instagram stories zuck",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["username"]
+  }

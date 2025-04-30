@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "twitter",
+    "aliases": [],
+    "help": "remove tracked twitter account",
+    "syntax": "twitter remove [username]",
+    "example": "twitter remove elonmusk",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["username"]
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "botinfo",
+    "aliases": ["bi"],
+    "help": "get to know more abt the bot.",
+    "syntax": "botinfo",
+    "example": "botinfo",
+    "cooldown": "4",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

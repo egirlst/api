@@ -1,0 +1,11 @@
+{
+    "name": "boosters",
+    "aliases": ["boosts"],
+    "help": "Shows all server boosters",
+    "syntax": "boosters",
+    "example": "boosters",
+    "cooldown": "7",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

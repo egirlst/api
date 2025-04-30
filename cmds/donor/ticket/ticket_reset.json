@@ -1,0 +1,12 @@
+{
+    "name": "reset",
+    "group": "ticket",
+    "aliases": [],
+    "help": "reset ticket system",
+    "syntax": "ticket reset",
+    "example": "ticket reset",
+    "cooldown": "10",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }

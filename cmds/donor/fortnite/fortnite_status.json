@@ -1,0 +1,12 @@
+{
+    "name": "status",
+    "group": "fortnite",
+    "aliases": [],
+    "help": "check fortnite server status",
+    "syntax": "fortnite status",
+    "example": "fortnite status",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

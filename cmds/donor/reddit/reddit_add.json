@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "reddit",
+    "aliases": [],
+    "help": "add subreddit to track",
+    "syntax": "reddit add [subreddit]",
+    "example": "reddit add wallstreetbets",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["subreddit"]
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "highlight",
+    "group": "instagram",
+    "aliases": [],
+    "help": "view user highlight",
+    "syntax": "instagram highlight [username]",
+    "example": "instagram highlight zuck",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["username"]
+  }

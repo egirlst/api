@@ -1,0 +1,12 @@
+{
+    "name": "rename",
+    "group": "ticket",
+    "aliases": [],
+    "help": "rename a ticket",
+    "syntax": "ticket rename [name]",
+    "example": "ticket rename support",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["name"]
+  }

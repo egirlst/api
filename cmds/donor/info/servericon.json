@@ -1,0 +1,11 @@
+{
+    "name": "servericon",
+    "aliases": ["sicon", "icon", "gicon"],
+    "help": "Shows server icon",
+    "syntax": "servericon (server)",
+    "example": "servericon",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["server"]
+  }

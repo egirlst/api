@@ -1,0 +1,12 @@
+{
+    "name": "close",
+    "group": "ticket",
+    "aliases": [],
+    "help": "close a ticket",
+    "syntax": "ticket close",
+    "example": "ticket close",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

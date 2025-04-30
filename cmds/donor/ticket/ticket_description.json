@@ -1,0 +1,12 @@
+{
+    "name": "description",
+    "group": "ticket",
+    "aliases": [],
+    "help": "update the ticket description",
+    "syntax": "ticket description [description]",
+    "example": "ticket description Need help with roles",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["description"]
+  }

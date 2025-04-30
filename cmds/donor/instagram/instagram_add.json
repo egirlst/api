@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "instagram",
+    "aliases": [],
+    "help": "add instagram account to track",
+    "syntax": "instagram add [username]",
+    "example": "instagram add zuck",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["username"]
+  }

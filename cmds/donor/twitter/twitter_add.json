@@ -1,0 +1,12 @@
+{
+    "name": "add",
+    "group": "twitter",
+    "aliases": [],
+    "help": "add twitter account to track",
+    "syntax": "twitter add [username]",
+    "example": "twitter add elonmusk",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["username"]
+  }

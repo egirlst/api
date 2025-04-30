@@ -1,0 +1,11 @@
+{
+    "name": "serverbanner",
+    "aliases": ["sbanner", "sb"],
+    "help": "Shows a user's server banner",
+    "syntax": "serverbanner (user)",
+    "example": "serverbanner saint",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["user"]
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "message",
+    "group": "twitter",
+    "aliases": [],
+    "help": "set notification message",
+    "syntax": "twitter message [message]",
+    "example": "twitter message New tweet from {user}!",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["message"]
+  }

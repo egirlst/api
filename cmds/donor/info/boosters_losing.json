@@ -1,0 +1,12 @@
+{
+    "name": "losing",
+    "group": "boosters",
+    "aliases": [],
+    "help": "Shows boosters whose boosts are expiring soon",
+    "syntax": "boosters losing",
+    "example": "boosters losing",
+    "cooldown": "7",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

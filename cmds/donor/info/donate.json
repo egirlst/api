@@ -1,0 +1,11 @@
+{
+    "name": "donate",
+    "aliases": ["donor"],
+    "help": "see donation info",
+    "syntax": "donate",
+    "example": "donate",
+    "cooldown": "3",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

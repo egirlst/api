@@ -1,0 +1,11 @@
+{
+    "name": "channelinfo",
+    "aliases": ["ci"],
+    "help": "Shows channel information",
+    "syntax": "channelinfo (channel)",
+    "example": "channelinfo #general",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["channel"]
+  }

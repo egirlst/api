@@ -1,0 +1,12 @@
+{
+    "name": "user",
+    "group": "instagram",
+    "aliases": [],
+    "help": "instagram usernamecheck",
+    "syntax": "instagram [username]",
+    "example": "instagram vole",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["username"]
+  }

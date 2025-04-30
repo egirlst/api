@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "pinterest",
+    "aliases": [],
+    "help": "remove saved pins",
+    "syntax": "pinterest remove [id]",
+    "example": "pinterest remove 12345",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["id"]
+  }

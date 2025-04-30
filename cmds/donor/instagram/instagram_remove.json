@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "instagram",
+    "aliases": [],
+    "help": "remove tracked account",
+    "syntax": "instagram remove [username]",
+    "example": "instagram remove zuck",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["username"]
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "pinterest",
+    "aliases": [],
+    "help": "list saved pins",
+    "syntax": "pinterest list",
+    "example": "pinterest list",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

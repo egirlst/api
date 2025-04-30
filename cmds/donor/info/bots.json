@@ -1,0 +1,11 @@
+{
+    "name": "bots",
+    "aliases": ["botlist"],
+    "help": "Show all bots in server",
+    "syntax": "bots",
+    "example": "bots",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

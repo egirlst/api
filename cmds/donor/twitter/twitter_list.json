@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "twitter",
+    "aliases": [],
+    "help": "list tracked accounts",
+    "syntax": "twitter list",
+    "example": "twitter list",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

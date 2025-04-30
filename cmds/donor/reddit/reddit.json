@@ -1,0 +1,11 @@
+{
+    "name": "reddit",
+    "aliases": ["rd"],
+    "help": "reddit integration",
+    "syntax": "reddit",
+    "example": "reddit",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

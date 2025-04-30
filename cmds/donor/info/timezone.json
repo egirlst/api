@@ -1,0 +1,11 @@
+{
+    "name": "timezone",
+    "aliases": ["tz"],
+    "help": "Check, set or remove your timezone",
+    "syntax": "timezone (action) (timezone)",
+    "example": "timezone set new yrok",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["action", "timezone"]
+  }

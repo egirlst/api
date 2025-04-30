@@ -1,0 +1,11 @@
+{
+    "name": "ticket",
+    "aliases": ["tickets"],
+    "help": "manage tickets",
+    "syntax": "ticket",
+    "example": "ticket",
+    "cooldown": "5",
+    "permissions": "administrator",
+    "donor": false,
+    "parameters": []
+  }

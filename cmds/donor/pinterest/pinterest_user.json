@@ -1,0 +1,12 @@
+{
+    "name": "user",
+    "group": "pinterest",
+    "aliases": [],
+    "help": "view pinterest user info",
+    "syntax": "pinterest user [username]",
+    "example": "pinterest user example",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["username"]
+  }

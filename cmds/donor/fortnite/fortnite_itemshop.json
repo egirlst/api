@@ -1,0 +1,12 @@
+{
+    "name": "itemshop",
+    "group": "fortnite",
+    "aliases": [],
+    "help": "detailed item shop info",
+    "syntax": "fortnite itemshop",
+    "example": "fortnite itemshop",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

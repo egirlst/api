@@ -1,0 +1,12 @@
+{
+    "name": "embed",
+    "group": "pinterest",
+    "aliases": [],
+    "help": "set embed for pins",
+    "syntax": "pinterest embed [setting]",
+    "example": "pinterest embed on",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["setting"]
+  }

@@ -1,0 +1,11 @@
+{
+    "name": "serverinfo",
+    "aliases": ["sinfo", "guildinfo", "si"],
+    "help": "Shows server information",
+    "syntax": "serverinfo (server)",
+    "example": "serverinfo",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["server"]
+  }

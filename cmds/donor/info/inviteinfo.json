@@ -1,0 +1,11 @@
+{
+    "name": "inviteinfo",
+    "aliases": ["ii"],
+    "help": "View information about an invite.",
+    "syntax": "inviteinfo [invite_code]",
+    "example": "inviteinfo discord.gg/saint",
+    "cooldown": "6",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["invite_code"]
+  }

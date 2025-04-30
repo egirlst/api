@@ -1,0 +1,12 @@
+{
+    "name": "update",
+    "group": "fortnite",
+    "aliases": [],
+    "help": "check latest fortnite updates",
+    "syntax": "fortnite update",
+    "example": "fortnite update",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

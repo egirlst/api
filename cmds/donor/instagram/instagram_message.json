@@ -1,0 +1,12 @@
+{
+    "name": "message",
+    "group": "instagram",
+    "aliases": [],
+    "help": "set notification message",
+    "syntax": "instagram message [message]",
+    "example": "instagram message New post from {user}!",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["message"]
+  }

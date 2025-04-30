@@ -1,0 +1,11 @@
+{
+    "name": "membercount",
+    "aliases": ["mc", "members"],
+    "help": "Shows server member stats",
+    "syntax": "membercount",
+    "example": "membercount",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

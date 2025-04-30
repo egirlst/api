@@ -1,0 +1,11 @@
+{
+    "name": "stickers",
+    "aliases": [],
+    "help": "View all server stickers.",
+    "syntax": "stickers",
+    "example": "stickers",
+    "cooldown": "6",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

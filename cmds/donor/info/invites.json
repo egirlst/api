@@ -1,0 +1,11 @@
+{
+    "name": "invites",
+    "aliases": [],
+    "help": "View all server invites.",
+    "syntax": "invites",
+    "example": "invites",
+    "cooldown": "6",
+    "permissions": "manage_guild",
+    "donor": false,
+    "parameters": []
+  }

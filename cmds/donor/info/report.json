@@ -1,0 +1,11 @@
+{
+    "name": "report",
+    "aliases": [],
+    "help": "Report an issue",
+    "syntax": "report $[title] [description]",
+    "example": "report $bug The command is not working properly",
+    "cooldown": "10",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["title", "description"]
+  }

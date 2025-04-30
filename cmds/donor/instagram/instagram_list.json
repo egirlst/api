@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "instagram",
+    "aliases": [],
+    "help": "list tracked accounts",
+    "syntax": "instagram list",
+    "example": "instagram list",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

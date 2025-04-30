@@ -1,0 +1,12 @@
+{
+    "name": "list",
+    "group": "reddit",
+    "aliases": [],
+    "help": "list tracked subreddits",
+    "syntax": "reddit list",
+    "example": "reddit list",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": []
+  }

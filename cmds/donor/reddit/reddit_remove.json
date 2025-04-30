@@ -1,0 +1,12 @@
+{
+    "name": "remove",
+    "group": "reddit",
+    "aliases": [],
+    "help": "remove tracked subreddit",
+    "syntax": "reddit remove [subreddit]",
+    "example": "reddit remove wallstreetbets",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["subreddit"]
+  }

@@ -1,0 +1,12 @@
+{
+    "name": "message",
+    "group": "reddit",
+    "aliases": [],
+    "help": "set notification message",
+    "syntax": "reddit message [message]",
+    "example": "reddit message New post in r/{subreddit}!",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["message"]
+  }

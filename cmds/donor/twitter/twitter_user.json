@@ -1,0 +1,12 @@
+{
+    "name": "user",
+    "group": "twitter",
+    "aliases": [],
+    "help": "view twitter user info",
+    "syntax": "twitter user [username]",
+    "example": "twitter user elonmusk",
+    "cooldown": "5",
+    "permissions": "None",
+    "donor": false,
+    "parameters": ["username"]
+  }
