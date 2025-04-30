@@ -8,8 +8,7 @@
     "permissions": "ban_members",
     "donor": false,
     "parameters": [
-      "user",
-      "all"
+      "user"
     ]
   }
   
